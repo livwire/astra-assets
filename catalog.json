@@ -1,0 +1,1042 @@
+{
+    "companions": [
+        {
+            "id": "Echo",
+            "name": "Echo",
+            "price": 0,
+            "image": "assets/images/companions/echo.webp",
+            "scale": 1.5
+        },
+        {
+            "id": "Cumulus",
+            "name": "Cumulus",
+            "price": 0,
+            "image": "assets/images/companions/cumulus.webp",
+            "scale": 1.5
+        },
+        {
+            "id": "BlackCat",
+            "name": "Black Cat",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/cat.webp",
+            "scale": 1.5
+        },
+        {
+            "id": "Axolotl",
+            "name": "Axolotl",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/axolotl.webp",
+            "scale": 1.5
+        },
+        {
+            "id": "Owl",
+            "name": "Owl",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/owl.webp",
+            "scale": 1.5,
+            "isSupernova": true
+        }
+    ],
+    "themes": [
+        {
+            "id": "MidnightAurora",
+            "name": "Midnight Aurora",
+            "price": 0,
+            "image": "assets/images/themes/midnight-aurora.avif"
+        },
+        {
+            "id": "PeacefulMeadow",
+            "name": "Peaceful Meadow",
+            "price": 0,
+            "image": "assets/images/themes/peaceful-meadow.avif"
+        },
+        {
+            "id": "red-carpet",
+            "name": "Red Carpet",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/red-carpet.avif"
+        },
+        {
+            "id": "Cabin",
+            "name": "Cozy Cabin",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/cozy-cabin.avif"
+        },
+        {
+            "id": "DeepSeaDream",
+            "name": "Deep Sea Dream",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/deep-sea-dream.avif",
+            "isSupernova": true
+        },
+        {
+            "id": "BiolumeBeach",
+            "name": "Biolume Beach",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/biolume-beach.avif",
+            "isSupernova": true
+        },
+        {
+            "id": "whirring-warehouse",
+            "name": "Whirring Warehouse",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/whirring-warehouse.avif"
+        },
+        {
+            "id": "floral-fable",
+            "name": "Floral Fable",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/floral-fable.avif",
+            "isSupernova": true
+        }
+    ],
+    "bubbles": [
+        {
+            "id": "shape-rounded-square",
+            "name": "Rounded Square",
+            "price": 20000
+        },
+        {
+            "id": "shape-star",
+            "name": "Starlight",
+            "price": 20000
+        },
+        {
+            "id": "shape-cosmic-star",
+            "name": "Cosmic Star",
+            "price": 20000,
+            "isSupernova": true
+        },
+        {
+            "id": "shape-hexagon",
+            "name": "Hexagon",
+            "price": 20000
+        },
+        {
+            "id": "shape-planetary",
+            "name": "Planetary",
+            "price": 20000,
+            "isSupernova": true
+        },
+        {
+            "id": "shape-flower-child",
+            "name": "Flower Child",
+            "price": 20000
+        },
+        {
+            "id": "shape-solar-flare",
+            "name": "Solar Flare",
+            "price": 20000
+        },
+        {
+            "id": "shape-cloud",
+            "name": "Cloud Nine",
+            "price": 20000
+        },
+        {
+            "id": "shape-crescent-moon",
+            "name": "Moon Phase",
+            "price": 20000
+        },
+        {
+            "id": "shape-droplet",
+            "name": "Raindrop",
+            "price": 20000
+        }
+    ],
+    "mending": [
+        {
+            "id": "lunarShield",
+            "name": "Lunar Shield",
+            "price": 5000,
+            "image": "lunarShield",
+            "desc": "A shimmer of moonlight used to bridge a single missed night.",
+            "isPinned": true
+        },
+        {
+            "id": "solarShield",
+            "name": "Solar Shield",
+            "price": 10000,
+            "image": "solarShield",
+            "desc": "The sun's warmth, capable of mending rifts within a 3-month window.",
+            "isPinned": true
+        }
+    ],
+    "fonts": [
+        {
+            "id": "font-trochut",
+            "name": "Trochut",
+            "price": 15000,
+            "fontFamily": "Trochut",
+            "isSupernova": false
+        },
+        {
+            "id": "font-cascadia-code",
+            "name": "Cascadia Code",
+            "price": 15000,
+            "fontFamily": "Cascadia Code",
+            "isSupernova": true
+        },
+        {
+            "id": "font-inika",
+            "name": "Inika",
+            "price": 15000,
+            "fontFamily": "Inika",
+            "isSupernova": false
+        },
+        {
+            "id": "font-geologica",
+            "name": "Geologica",
+            "price": 15000,
+            "fontFamily": "Geologica",
+            "isSupernova": true
+        },
+        {
+            "id": "font-savate",
+            "name": "Savate",
+            "price": 15000,
+            "fontFamily": "Savate",
+            "isSupernova": false
+        },
+        {
+            "id": "font-overlock",
+            "name": "Overlock",
+            "price": 15000,
+            "fontFamily": "Overlock",
+            "isSupernova": true
+        },
+        {
+            "id": "font-oleo-script",
+            "name": "Oleo Script",
+            "price": 15000,
+            "fontFamily": "Oleo Script",
+            "isSupernova": false
+        },
+        {
+            "id": "font-unbounded",
+            "name": "Unbounded",
+            "price": 15000,
+            "fontFamily": "Unbounded",
+            "isSupernova": true
+        },
+        {
+            "id": "font-alan-sans",
+            "name": "Alan Sans",
+            "price": 15000,
+            "fontFamily": "Alan Sans",
+            "isSupernova": false
+        },
+        {
+            "id": "font-funnel-display",
+            "name": "Funnel Display",
+            "price": 15000,
+            "fontFamily": "Funnel Display",
+            "isSupernova": true
+        },
+        {
+            "id": "font-shantell-sans",
+            "name": "Shantell Sans",
+            "price": 15000,
+            "fontFamily": "Shantell Sans",
+            "isSupernova": false
+        },
+        {
+            "id": "font-outfit",
+            "name": "Outfit",
+            "price": 15000,
+            "fontFamily": "Outfit",
+            "isSupernova": true
+        },
+        {
+            "id": "font-tourney",
+            "name": "Tourney",
+            "price": 15000,
+            "fontFamily": "Tourney",
+            "isSupernova": false
+        },
+        {
+            "id": "font-noto-serif",
+            "name": "Noto Serif",
+            "price": 15000,
+            "fontFamily": "Noto Serif",
+            "isSupernova": true
+        },
+        {
+            "id": "font-iosevka-charon",
+            "name": "Iosevka Charon",
+            "price": 15000,
+            "fontFamily": "Iosevka Charon",
+            "isSupernova": false
+        },
+        {
+            "id": "font-advent-pro",
+            "name": "Advent Pro",
+            "price": 15000,
+            "fontFamily": "Advent Pro",
+            "isSupernova": true
+        },
+        {
+            "id": "font-oxygen",
+            "name": "Oxygen",
+            "price": 15000,
+            "fontFamily": "Oxygen",
+            "isSupernova": false
+        },
+        {
+            "id": "font-josefin-sans",
+            "name": "Josefin Sans",
+            "price": 15000,
+            "fontFamily": "Josefin Sans",
+            "isSupernova": true
+        },
+        {
+            "id": "font-alkatra",
+            "name": "Alkatra",
+            "price": 15000,
+            "fontFamily": "Alkatra",
+            "isSupernova": false
+        },
+        {
+            "id": "font-sour-gummy",
+            "name": "Sour Gummy",
+            "price": 15000,
+            "fontFamily": "Sour Gummy",
+            "isSupernova": true
+        },
+        {
+            "id": "font-space-mono",
+            "name": "Space Mono",
+            "price": 15000,
+            "fontFamily": "Space Mono",
+            "isSupernova": false
+        },
+        {
+            "id": "font-exo-2",
+            "name": "Exo 2",
+            "price": 15000,
+            "fontFamily": "Exo 2",
+            "isSupernova": true
+        },
+        {
+            "id": "font-kode-mono",
+            "name": "Kode Mono",
+            "price": 15000,
+            "fontFamily": "Kode Mono",
+            "isSupernova": false
+        },
+        {
+            "id": "font-bodoni-moda",
+            "name": "Bodoni Moda",
+            "price": 15000,
+            "fontFamily": "Bodoni Moda",
+            "isSupernova": true
+        },
+        {
+            "id": "font-quicksand",
+            "name": "Quicksand",
+            "price": 15000,
+            "fontFamily": "Quicksand",
+            "isSupernova": false
+        },
+        {
+            "id": "font-suse-mono",
+            "name": "Suse Mono",
+            "price": 15000,
+            "fontFamily": "Suse Mono",
+            "isSupernova": true
+        },
+        {
+            "id": "font-roboto-serif",
+            "name": "Roboto Serif",
+            "price": 15000,
+            "fontFamily": "Roboto Serif",
+            "isSupernova": false
+        },
+        {
+            "id": "font-platypi",
+            "name": "Platypi",
+            "price": 15000,
+            "fontFamily": "Platypi",
+            "isSupernova": true
+        },
+        {
+            "id": "font-rokkitt",
+            "name": "Rokkitt",
+            "price": 15000,
+            "fontFamily": "Rokkitt",
+            "isSupernova": false
+        },
+        {
+            "id": "font-grenze-gotisch",
+            "name": "Grenze Gotisch",
+            "price": 15000,
+            "fontFamily": "Grenze Gotisch",
+            "isSupernova": true
+        },
+        {
+            "id": "font-merienda",
+            "name": "Merienda",
+            "price": 15000,
+            "fontFamily": "Merienda",
+            "isSupernova": false
+        },
+        {
+            "id": "font-quantico",
+            "name": "Quantico",
+            "price": 15000,
+            "fontFamily": "Quantico",
+            "isSupernova": true
+        },
+        {
+            "id": "font-josefin-slab",
+            "name": "Josefin Slab",
+            "price": 15000,
+            "fontFamily": "Josefin Slab",
+            "isSupernova": false
+        },
+        {
+            "id": "font-turret-road",
+            "name": "Turret Road",
+            "price": 15000,
+            "fontFamily": "Turret Road",
+            "isSupernova": true
+        },
+        {
+            "id": "font-tomorrow",
+            "name": "Tomorrow",
+            "price": 15000,
+            "fontFamily": "Tomorrow",
+            "isSupernova": false
+        },
+        {
+            "id": "font-public-sans",
+            "name": "Public Sans",
+            "price": 15000,
+            "fontFamily": "Public Sans",
+            "isSupernova": true
+        },
+        {
+            "id": "font-fredoka",
+            "name": "Fredoka",
+            "price": 15000,
+            "fontFamily": "Fredoka",
+            "isSupernova": false
+        },
+        {
+            "id": "font-oxanium",
+            "name": "Oxanium",
+            "price": 15000,
+            "fontFamily": "Oxanium",
+            "isSupernova": true
+        },
+        {
+            "id": "font-unkempt",
+            "name": "Unkempt",
+            "price": 15000,
+            "fontFamily": "Unkempt",
+            "isSupernova": false
+        },
+        {
+            "id": "font-orbitron",
+            "name": "Orbitron",
+            "price": 15000,
+            "fontFamily": "Orbitron",
+            "isSupernova": true
+        },
+        {
+            "id": "font-texturina",
+            "name": "Texturina",
+            "price": 15000,
+            "fontFamily": "Texturina",
+            "isSupernova": false
+        },
+        {
+            "id": "font-sansita-swashed",
+            "name": "Sansita Swashed",
+            "price": 15000,
+            "fontFamily": "Sansita Swashed",
+            "isSupernova": true
+        },
+        {
+            "id": "font-passion-one",
+            "name": "Passion One",
+            "price": 15000,
+            "fontFamily": "Passion One",
+            "isSupernova": false
+        },
+        {
+            "id": "font-mountains-of-christmas",
+            "name": "Mountains Of Christmas",
+            "price": 15000,
+            "fontFamily": "Mountains Of Christmas",
+            "isSupernova": true
+        },
+        {
+            "id": "font-almendra",
+            "name": "Almendra",
+            "price": 15000,
+            "fontFamily": "Almendra",
+            "isSupernova": false
+        },
+        {
+            "id": "font-solway",
+            "name": "Solway",
+            "price": 15000,
+            "fontFamily": "Solway",
+            "isSupernova": true
+        },
+        {
+            "id": "font-zilla-slab",
+            "name": "Zilla Slab",
+            "price": 15000,
+            "fontFamily": "Zilla Slab",
+            "isSupernova": false
+        },
+        {
+            "id": "font-comic-neue",
+            "name": "Comic Neue",
+            "price": 15000,
+            "fontFamily": "Comic Neue",
+            "isSupernova": true
+        },
+        {
+            "id": "font-balsamiq-sans",
+            "name": "Balsamiq Sans",
+            "price": 15000,
+            "fontFamily": "Balsamiq Sans",
+            "isSupernova": false
+        },
+        {
+            "id": "font-philosopher",
+            "name": "Philosopher",
+            "price": 15000,
+            "fontFamily": "Philosopher",
+            "isSupernova": true
+        },
+        {
+            "id": "font-life-savers",
+            "name": "Life Savers",
+            "price": 15000,
+            "fontFamily": "Life Savers",
+            "isSupernova": false
+        },
+        {
+            "id": "font-tektur",
+            "name": "Tektur",
+            "price": 15000,
+            "fontFamily": "Tektur",
+            "isSupernova": true
+        },
+        {
+            "id": "font-delius-unicase",
+            "name": "Delius Unicase",
+            "price": 15000,
+            "fontFamily": "Delius Unicase",
+            "isSupernova": false
+        },
+        {
+            "id": "font-space-grotesk",
+            "name": "Space Grotesk",
+            "price": 15000,
+            "fontFamily": "Space Grotesk",
+            "isSupernova": true
+        },
+        {
+            "id": "font-comfortaa",
+            "name": "Comfortaa",
+            "price": 15000,
+            "fontFamily": "Comfortaa",
+            "isSupernova": false
+        },
+        {
+            "id": "font-lobster-two",
+            "name": "Lobster Two",
+            "price": 15000,
+            "fontFamily": "Lobster Two",
+            "isSupernova": true
+        },
+        {
+            "id": "font-stick-no-bills",
+            "name": "Stick No Bills",
+            "price": 15000,
+            "fontFamily": "Stick No Bills",
+            "isSupernova": false
+        },
+        {
+            "id": "font-museomoderno",
+            "name": "Museomoderno",
+            "price": 15000,
+            "fontFamily": "Museomoderno",
+            "isSupernova": true
+        },
+        {
+            "id": "font-geist-mono",
+            "name": "Geist Mono",
+            "price": 15000,
+            "fontFamily": "Geist Mono",
+            "isSupernova": false
+        },
+        {
+            "id": "font-agdasima",
+            "name": "Agdasima",
+            "price": 15000,
+            "fontFamily": "Agdasima",
+            "isSupernova": true
+        },
+        {
+            "id": "font-belanosima",
+            "name": "Belanosima",
+            "price": 15000,
+            "fontFamily": "Belanosima",
+            "isSupernova": false
+        },
+        {
+            "id": "font-aleo",
+            "name": "Aleo",
+            "price": 15000,
+            "fontFamily": "Aleo",
+            "isSupernova": true
+        },
+        {
+            "id": "font-fuzzy-bubbles",
+            "name": "Fuzzy Bubbles",
+            "price": 15000,
+            "fontFamily": "Fuzzy Bubbles",
+            "isSupernova": false
+        },
+        {
+            "id": "font-handjet",
+            "name": "Handjet",
+            "price": 15000,
+            "fontFamily": "Handjet",
+            "isSupernova": true
+        },
+        {
+            "id": "font-cabin",
+            "name": "Cabin",
+            "price": 15000,
+            "fontFamily": "Cabin",
+            "isSupernova": false
+        },
+        {
+            "id": "font-big-shoulders",
+            "name": "Big Shoulders",
+            "price": 15000,
+            "fontFamily": "Big Shoulders",
+            "isSupernova": true
+        },
+        {
+            "id": "font-parkinsans",
+            "name": "Parkinsans",
+            "price": 15000,
+            "fontFamily": "Parkinsans",
+            "isSupernova": false
+        },
+        {
+            "id": "font-noto-serif-display ",
+            "name": "Noto Serif Display ",
+            "price": 15000,
+            "fontFamily": "Noto Serif Display ",
+            "isSupernova": true
+        },
+        {
+            "id": "font-montagu-slab",
+            "name": "Montagu Slab",
+            "price": 15000,
+            "fontFamily": "Montagu Slab",
+            "isSupernova": false
+        },
+        {
+            "id": "font-enriqueta",
+            "name": "Enriqueta",
+            "price": 15000,
+            "fontFamily": "Enriqueta",
+            "isSupernova": true
+        },
+        {
+            "id": "font-dynapuff",
+            "name": "Dynapuff",
+            "price": 15000,
+            "fontFamily": "Dynapuff",
+            "isSupernova": false
+        },
+        {
+            "id": "Atkinson",
+            "name": "Atkinson (Default)",
+            "price": 0,
+            "fontFamily": "Atkinson",
+            "isSupernova": false
+        },
+        {
+            "id": "font-pixelify-sans",
+            "name": "Pixelify Sans",
+            "price": 15000,
+            "fontFamily": "Pixelify Sans",
+            "isSupernova": false
+        },
+        {
+            "id": "font-changa",
+            "name": "Changa",
+            "price": 15000,
+            "fontFamily": "Changa",
+            "isSupernova": true
+        },
+        {
+            "id": "font-gorditas",
+            "name": "Gorditas",
+            "price": 15000,
+            "fontFamily": "Gorditas",
+            "isSupernova": false
+        },
+        {
+            "id": "font-neuton",
+            "name": "Neuton",
+            "price": 15000,
+            "fontFamily": "Neuton",
+            "isSupernova": true
+        },
+        {
+            "id": "font-lekton",
+            "name": "Lekton",
+            "price": 15000,
+            "fontFamily": "Lekton",
+            "isSupernova": false
+        },
+        {
+            "id": "font-anybody",
+            "name": "Anybody",
+            "price": 15000,
+            "fontFamily": "Anybody",
+            "isSupernova": true
+        },
+        {
+            "id": "font-geom",
+            "name": "Geom",
+            "price": 15000,
+            "fontFamily": "Geom",
+            "isSupernova": false
+        },
+        {
+            "id": "font-corben",
+            "name": "Corben",
+            "price": 15000,
+            "fontFamily": "Corben",
+            "isSupernova": true
+        },
+        {
+            "id": "font-afacad-flux",
+            "name": "Afacad Flux",
+            "price": 15000,
+            "fontFamily": "Afacad Flux",
+            "isSupernova": false
+        },
+        {
+            "id": "font-grandstander",
+            "name": "Grandstander",
+            "price": 15000,
+            "fontFamily": "Grandstander",
+            "isSupernova": true
+        },
+        {
+            "id": "font-jura",
+            "name": "Jura",
+            "price": 15000,
+            "fontFamily": "Jura",
+            "isSupernova": false
+        },
+        {
+            "id": "font-bona-nova",
+            "name": "Bona Nova",
+            "price": 15000,
+            "fontFamily": "Bona Nova",
+            "isSupernova": true
+        },
+        {
+            "id": "font-genos",
+            "name": "Genos",
+            "price": 15000,
+            "fontFamily": "Genos",
+            "isSupernova": false
+        },
+        {
+            "id": "font-bellota",
+            "name": "Bellota",
+            "price": 15000,
+            "fontFamily": "Bellota",
+            "isSupernova": true
+        },
+        {
+            "id": "font-eb-garamond",
+            "name": "Eb Garamond",
+            "price": 15000,
+            "fontFamily": "Eb Garamond",
+            "isSupernova": false
+        },
+        {
+            "id": "font-biorhyme",
+            "name": "Biorhyme",
+            "price": 15000,
+            "fontFamily": "Biorhyme",
+            "isSupernova": true
+        },
+        {
+            "id": "font-marvel",
+            "name": "Marvel",
+            "price": 15000,
+            "fontFamily": "Marvel",
+            "isSupernova": false
+        },
+        {
+            "id": "font-elms-sans",
+            "name": "Elms Sans",
+            "price": 15000,
+            "fontFamily": "Elms Sans",
+            "isSupernova": true
+        },
+        {
+            "id": "font-montserrat",
+            "name": "Montserrat",
+            "price": 15000,
+            "fontFamily": "Montserrat",
+            "isSupernova": false
+        },
+        {
+            "id": "font-podkova",
+            "name": "Podkova",
+            "price": 15000,
+            "fontFamily": "Podkova",
+            "isSupernova": true
+        },
+        {
+            "id": "font-newsreader",
+            "name": "Newsreader",
+            "price": 15000,
+            "fontFamily": "Newsreader",
+            "isSupernova": false
+        },
+        {
+            "id": "font-archivo",
+            "name": "Archivo",
+            "price": 15000,
+            "fontFamily": "Archivo",
+            "isSupernova": true
+        },
+        {
+            "id": "font-montserrat-alternates",
+            "name": "Montserrat Alternates",
+            "price": 15000,
+            "fontFamily": "Montserrat Alternates",
+            "isSupernova": false
+        },
+        {
+            "id": "font-doto",
+            "name": "Doto",
+            "price": 15000,
+            "fontFamily": "Doto",
+            "isSupernova": true
+        },
+        {
+            "id": "font-roboto",
+            "name": "Roboto",
+            "price": 15000,
+            "fontFamily": "Roboto",
+            "isSupernova": false
+        },
+        {
+            "id": "font-old-standard-tt",
+            "name": "Old Standard Tt",
+            "price": 15000,
+            "fontFamily": "Old Standard Tt",
+            "isSupernova": true
+        },
+        {
+            "id": "font-cherry-swash",
+            "name": "Cherry Swash",
+            "price": 15000,
+            "fontFamily": "Cherry Swash",
+            "isSupernova": false
+        },
+        {
+            "id": "font-goldman",
+            "name": "Goldman",
+            "price": 15000,
+            "fontFamily": "Goldman",
+            "isSupernova": true
+        },
+        {
+            "id": "font-blinker",
+            "name": "Blinker",
+            "price": 15000,
+            "fontFamily": "Blinker",
+            "isSupernova": false
+        },
+        {
+            "id": "font-hepta-slab",
+            "name": "Hepta Slab",
+            "price": 15000,
+            "fontFamily": "Hepta Slab",
+            "isSupernova": true
+        },
+        {
+            "id": "font-kameron",
+            "name": "Kameron",
+            "price": 15000,
+            "fontFamily": "Kameron",
+            "isSupernova": false
+        },
+        {
+            "id": "font-play",
+            "name": "Play",
+            "price": 15000,
+            "fontFamily": "Play",
+            "isSupernova": true
+        },
+        {
+            "id": "font-grenze",
+            "name": "Grenze",
+            "price": 15000,
+            "fontFamily": "Grenze",
+            "isSupernova": false
+        },
+        {
+            "id": "font-red-rose",
+            "name": "Red Rose",
+            "price": 15000,
+            "fontFamily": "Red Rose",
+            "isSupernova": true
+        },
+        {
+            "id": "font-livvic",
+            "name": "Livvic",
+            "price": 15000,
+            "fontFamily": "Livvic",
+            "isSupernova": false
+        },
+        {
+            "id": "font-open-sans",
+            "name": "Open Sans",
+            "price": 15000,
+            "fontFamily": "Open Sans",
+            "isSupernova": true
+        },
+        {
+            "id": "font-suse",
+            "name": "Suse",
+            "price": 15000,
+            "fontFamily": "Suse",
+            "isSupernova": false
+        },
+        {
+            "id": "font-quattrocento",
+            "name": "Quattrocento",
+            "price": 15000,
+            "fontFamily": "Quattrocento",
+            "isSupernova": true
+        },
+        {
+            "id": "font-gluten",
+            "name": "Gluten",
+            "price": 15000,
+            "fontFamily": "Gluten",
+            "isSupernova": false
+        },
+        {
+            "id": "font-ojuju",
+            "name": "Ojuju",
+            "price": 15000,
+            "fontFamily": "Ojuju",
+            "isSupernova": true
+        },
+        {
+            "id": "font-barlow",
+            "name": "Barlow",
+            "price": 15000,
+            "fontFamily": "Barlow",
+            "isSupernova": false
+        },
+        {
+            "id": "font-baskervville",
+            "name": "Baskervville",
+            "price": 15000,
+            "fontFamily": "Baskervville",
+            "isSupernova": true
+        },
+        {
+            "id": "font-maitree",
+            "name": "Maitree",
+            "price": 15000,
+            "fontFamily": "Maitree",
+            "isSupernova": false
+        },
+        {
+            "id": "font-raleway",
+            "name": "Raleway",
+            "price": 15000,
+            "fontFamily": "Raleway",
+            "isSupernova": true
+        },
+        {
+            "id": "font-kreon",
+            "name": "Kreon",
+            "price": 15000,
+            "fontFamily": "Kreon",
+            "isSupernova": false
+        },
+        {
+            "id": "font-antonio",
+            "name": "Antonio",
+            "price": 15000,
+            "fontFamily": "Antonio",
+            "isSupernova": true
+        },
+        {
+            "id": "font-arvo",
+            "name": "Arvo",
+            "price": 15000,
+            "fontFamily": "Arvo",
+            "isSupernova": false
+        },
+        {
+            "id": "font-besley",
+            "name": "Besley",
+            "price": 15000,
+            "fontFamily": "Besley",
+            "isSupernova": true
+        },
+        {
+            "id": "font-dancing-script",
+            "name": "Dancing Script",
+            "price": 15000,
+            "fontFamily": "Dancing Script",
+            "isSupernova": false
+        },
+        {
+            "id": "font-science-gothic",
+            "name": "Science Gothic",
+            "price": 15000,
+            "fontFamily": "Science Gothic",
+            "isSupernova": true
+        },
+        {
+            "id": "font-dotgothic16",
+            "name": "DotGothic16",
+            "price": 15000,
+            "fontFamily": "DotGothic16",
+            "isSupernova": false
+        },
+        {
+            "id": "font-press-start-2p",
+            "name": "Press Start 2P",
+            "price": 15000,
+            "fontFamily": "Press Start 2P",
+            "isSupernova": true
+        },
+        {
+            "id": "font-vt323",
+            "name": "VT323",
+            "price": 15000,
+            "fontFamily": "VT323",
+            "isSupernova": false
+        }
+    ]
+}
