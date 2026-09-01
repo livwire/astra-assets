@@ -88,6 +88,13 @@
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/floral-fable.avif",
             "isSupernova": true
+        },
+        {
+            "id": "lush-lagoon",
+            "name": "Lush Lagoon",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/lush-lagoon.avif",
+            "isSupernova": true
         }
     ],
     "bubbles": [
