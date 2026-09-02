@@ -35,6 +35,16 @@
             "image": "https://livwire.github.io/astra-assets/companions/owl.webp",
             "scale": 1.5,
             "isSupernova": true
+        },
+        {
+            "id": "fair-foal",
+            "name": "Fair Foal",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/fair-foal.avif",
+            "scale": 1.5,
+            "isSeasonal": true,
+            "season": "August",
+            "seasonName": "Summer Carnival"
         }
     ],
     "themes": [
@@ -95,6 +105,15 @@
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/lush-lagoon.avif",
             "isSupernova": true
+        },
+        {
+            "id": "summer-carnival",
+            "name": "Summer Carnival",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/summer-carnival.avif",
+            "isSeasonal": true,
+            "season": "August",
+            "seasonName": "Summer Carnival"
         }
     ],
     "bubbles": [
@@ -149,6 +168,14 @@
             "id": "shape-droplet",
             "name": "Raindrop",
             "price": 20000
+        },
+        {
+            "id": "shape-balloon",
+            "name": "Balloon",
+            "price": 20000,
+            "isSeasonal": true,
+            "season": "August",
+            "seasonName": "Summer Carnival"
         }
     ],
     "mending": [
@@ -1044,6 +1071,15 @@
             "price": 15000,
             "fontFamily": "VT323",
             "isSupernova": false
+        },
+        {
+            "id": "font-sancreek",
+            "name": "Sancreek",
+            "price": 15000,
+            "fontFamily": "Sancreek",
+            "isSeasonal": true,
+            "season": "August",
+            "seasonName": "Summer Carnival"
         }
     ]
 }
