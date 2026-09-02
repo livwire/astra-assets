@@ -43,7 +43,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/fair-foal.avif",
             "scale": 1.5,
             "isSeasonal": true,
-            "season": "August",
+            "season": "August 2026",
             "seasonName": "Summer Carnival"
         }
     ],
@@ -112,7 +112,7 @@
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/summer-carnival.avif",
             "isSeasonal": true,
-            "season": "August",
+            "season": "August 2026",
             "seasonName": "Summer Carnival"
         }
     ],
@@ -174,7 +174,7 @@
             "name": "Balloon",
             "price": 20000,
             "isSeasonal": true,
-            "season": "August",
+            "season": "August 2026",
             "seasonName": "Summer Carnival"
         }
     ],
@@ -1078,7 +1078,7 @@
             "price": 15000,
             "fontFamily": "Sancreek",
             "isSeasonal": true,
-            "season": "August",
+            "season": "August 2026",
             "seasonName": "Summer Carnival"
         }
     ]
