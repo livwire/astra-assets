@@ -106,11 +106,11 @@
             "image": "https://livwire.github.io/astra-assets/themes/lush-lagoon.avif",
             "isSupernova": true
         },
-                {
+        {
             "id": "sunny-summit",
             "name": "Sunny Summit",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif",
+            "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif"
         },
         {
             "id": "summer-carnival",
