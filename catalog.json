@@ -106,6 +106,12 @@
             "image": "https://livwire.github.io/astra-assets/themes/lush-lagoon.avif",
             "isSupernova": true
         },
+                {
+            "id": "sunny-summit",
+            "name": "Sunny Summit",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif",
+        },
         {
             "id": "summer-carnival",
             "name": "Summer Carnival",
@@ -123,8 +129,8 @@
             "price": 20000
         },
         {
-            "id": "shape-star",
-            "name": "Starlight",
+            "id": "shape-sparkle",
+            "name": "Sparkle",
             "price": 20000
         },
         {
@@ -151,7 +157,7 @@
         },
         {
             "id": "shape-solar-flare",
-            "name": "Solar Flare",
+            "name": "Sun",
             "price": 20000
         },
         {
@@ -167,6 +173,11 @@
         {
             "id": "shape-droplet",
             "name": "Raindrop",
+            "price": 20000
+        },
+        {
+            "id": "shape-heart",
+            "name": "Heart",
             "price": 20000
         },
         {
