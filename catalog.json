@@ -52,71 +52,115 @@
             "id": "MidnightAurora",
             "name": "Midnight Aurora",
             "price": 0,
-            "image": "assets/images/themes/midnight-aurora.avif"
+            "image": "assets/images/themes/midnight-aurora.avif",
+            "colors": {
+                "dark": "#35d7d7",
+                "light": "#5b45ff"
+            }
         },
         {
             "id": "PeacefulMeadow",
             "name": "Peaceful Meadow",
             "price": 0,
-            "image": "assets/images/themes/peaceful-meadow.avif"
+            "image": "assets/images/themes/peaceful-meadow.avif",
+            "colors": {
+                "dark": "#5fdaff",
+                "light": "#0284c7"
+            }
         },
         {
             "id": "red-carpet",
             "name": "Red Carpet",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/red-carpet.avif"
+            "image": "https://livwire.github.io/astra-assets/themes/red-carpet.avif",
+            "colors": {
+                "dark": "#ffce52",
+                "light": "#0031d1"
+            }
         },
         {
             "id": "Cabin",
             "name": "Cozy Cabin",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/cozy-cabin.avif"
+            "image": "https://livwire.github.io/astra-assets/themes/cozy-cabin.avif",
+            "colors": {
+                "dark": "#FFB86C",
+                "light": "#8a240c"
+            }
         },
         {
             "id": "DeepSeaDream",
             "name": "Deep Sea Dream",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/deep-sea-dream.avif",
-            "isSupernova": true
+            "isSupernova": true,
+            "colors": {
+                "dark": "#FF75C3",
+                "light": "#db2777"
+            }
         },
         {
             "id": "BiolumeBeach",
             "name": "Biolume Beach",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/biolume-beach.avif",
-            "isSupernova": true
+            "isSupernova": true,
+            "colors": {
+                "dark": "#00F2FE",
+                "light": "#9c00eb"
+            }
         },
         {
             "id": "whirring-warehouse",
             "name": "Whirring Warehouse",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/whirring-warehouse.avif"
+            "image": "https://livwire.github.io/astra-assets/themes/whirring-warehouse.avif",
+            "colors": {
+                "dark": "#44e7ea",
+                "light": "#0284c7"
+            }
         },
         {
             "id": "floral-fable",
             "name": "Floral Fable",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/floral-fable.avif",
-            "isSupernova": true
+            "isSupernova": true,
+            "colors": {
+                "dark": "#cca1ef",
+                "light": "#7c3aed"
+            }
         },
         {
             "id": "lush-lagoon",
             "name": "Lush Lagoon",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/lush-lagoon.avif",
-            "isSupernova": true
+            "isSupernova": true,
+            "colors": {
+                "dark": "#62e33b",
+                "light": "#8800c2"
+            }
         },
-                {
+        {
             "id": "sunny-summit",
             "name": "Sunny Summit",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif"
+            "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif",
+            "colors": {
+                "dark": "#FF8C00",
+                "light": "#ea580c"
+            }
         },
         {
             "id": "cloud-castle",
             "name": "Cloud Castle",
             "price": 30000,
-            "image": "https://livwire.github.io/astra-assets/themes/cloud-castle.avif"
+            "image": "https://livwire.github.io/astra-assets/themes/cloud-castle.avif",
+            "colors": {
+                "dark": "#ae8cef",
+                "light": "#7c3aed"
+            }
         },
         {
             "id": "summer-carnival",
@@ -125,66 +169,141 @@
             "image": "https://livwire.github.io/astra-assets/themes/summer-carnival.avif",
             "isSeasonal": true,
             "season": "August 2026",
-            "seasonName": "Summer Carnival"
+            "seasonName": "Summer Carnival",
+            "colors": {
+                "dark": "#ff70b3",
+                "light": "#db2777"
+            }
         }
     ],
     "bubbles": [
         {
             "id": "shape-rounded-square",
             "name": "Rounded Square",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "0 0 24 24",
+            "path": "M3 5v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2",
+            "strokeWidth": 0.32,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 78, "shop": 86, "harmony": 42, "preview": 62 }
         },
         {
             "id": "shape-sparkle",
             "name": "Sparkle",
-            "price": 20000
+            "price": 20000,
+            "aliases": ["shape-star"],
+            "viewBox": "0 0 24 24",
+            "path": "m21.45 11.11L16.85 7.83Q16.40 7.60 16.17 7.14L12.89 2.56c-.34-.68-1.45-.68-1.79 0L7.83 7.14Q7.60 7.60 7.14 7.83L2.56 11.11c-.34.17-.55.52-.55.89s.21.72.55.89L7.14 16.17Q7.60 16.40 7.83 16.85L11.11 21.44c.17.34.52.55.89.55s.72-.21.89-.55L16.17 16.85Q16.40 16.40 16.85 16.17L21.45 12.89c.34-.17.55-.52.55-.89s-.21-.72-.55-.89Z",
+            "strokeWidth": 0.32,
+            "scale": 125,
+            "margin": -12.5,
+            "sizing": { "grid": 68, "shop": 76, "harmony": 36, "preview": 54 }
         },
         {
             "id": "shape-cosmic-star",
             "name": "Cosmic Star",
             "price": 20000,
-            "isSupernova": true
+            "isSupernova": true,
+            "viewBox": "0 0 24 24",
+            "path": "m7.625 6.4l2.8-3.625q.3-.4.713-.587T12 2t.863.188t.712.587l2.8 3.625l4.25 1.425q.65.2 1.025.738t.375 1.187q0 .3-.088.6t-.287.575l-2.75 3.9l.1 4.1q.025.875-.575 1.475t-1.4.6q-.05 0-.55-.075L12 19.675l-4.475 1.25q-.125.05-.275.063T6.975 21q-.8 0-1.4-.6T5 18.925l.1-4.125l-2.725-3.875q-.2-.275-.288-.575T2 9.75q0-.625.363-1.162t1.012-.763z",
+            "strokeWidth": 0.32,
+            "scale": 125,
+            "margin": -12.5,
+            "sizing": { "grid": 78, "shop": 86, "harmony": 42, "preview": 62 }
         },
         {
             "id": "shape-hexagon",
             "name": "Hexagon",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "0 0 24 24",
+            "path": "M7.95 21q-.55 0-1-.262T6.225 20l-4.05-7q-.275-.475-.275-1t.275-1l4.05-7q.275-.475.725-.737t1-.263h8.1q.55 0 1 .263t.725.737l4.05 7q.275.475.275 1t-.275 1l-4.05 7q-.275.475-.725.738t-1 .262z",
+            "strokeWidth": 0.32,
+            "scale": 125,
+            "margin": -12.5,
+            "sizing": { "grid": 74, "shop": 82, "harmony": 40, "preview": 58 }
         },
         {
             "id": "shape-planetary",
             "name": "Planetary",
             "price": 20000,
-            "isSupernova": true
+            "isSupernova": true,
+            "viewBox": "-2 -2 52 52",
+            "svg": "<svg viewBox=\"-2 -2 52 52\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 40c8.837 0 16-7.163 16-16S32.837 8 24 8S8 15.163 8 24s7.163 16 16 16Z\" fill=\"black\"/><path d=\"M37.564 15.51c4.22.368 7.115 1.662 7.686 3.796c1.144 4.268-7.443 10.277-19.18 13.421S3.893 34.962 2.75 30.694c-.6-2.236 1.472-4.95 5.269-7.48\" fill=\"black\"/></svg>",
+            "strokeSvg": "<svg viewBox=\"-2 -2 52 52\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 40c8.837 0 16-7.163 16-16S32.837 8 24 8S8 15.163 8 24s7.163 16 16 16Z\" fill=\"none\" stroke=\"black\" stroke-width=\"0.65\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M37.564 15.51c4.22.368 7.115 1.662 7.686 3.796c1.144 4.268-7.443 10.277-19.18 13.421S3.893 34.962 2.75 30.694c-.6-2.236 1.472-4.95 5.269-7.48\" fill=\"none\" stroke=\"black\" stroke-width=\"0.65\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg>",
+            "strokeWidth": 0.65,
+            "scale": 125,
+            "margin": -12.5,
+            "sizing": { "grid": 76, "shop": 84, "harmony": 40, "preview": 60 }
         },
         {
             "id": "shape-flower-power",
             "name": "Flower Power",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "-1 -1 18 18",
+            "path": "M8 1a2 2 0 0 1 2 2v.17l.121-.12a2 2 0 0 1 2.83 2.829L12.828 6H13a2 2 0 1 1 0 4h-.172l.121.121a2 2 0 1 1-2.828 2.828L10 12.83V13a2 2 0 1 1-4 0v-.172l-.121.121a2 2 0 0 1-2.83-2.828L3.172 10H3a2 2 0 1 1 0-4h.17l-.12-.121a2 2 0 0 1 2.829-2.83L6 3.172V3a2 2 0 0 1 2-2",
+            "strokeWidth": 0.25,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-solar-flare",
             "name": "Sun",
-            "price": 20000
+            "price": 20000,
+            "aliases": ["shape-sun"],
+            "viewBox": "0 0 64 64",
+            "svg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m20.52 59.717l7.027-7.2a20.9 20.9 0 0 1-6.904-2.87zM43.48 4.284l-7.025 7.199a20.9 20.9 0 0 1 6.904 2.871zm-31.996 32.17l-7.201 7.025l10.07-.122a20.9 20.9 0 0 1-2.869-6.903m41.032-8.907l7.201-7.027l-10.07.123a20.9 20.9 0 0 1 2.869 6.904m-38.162-6.905l-10.07-.123l7.201 7.027a20.8 20.8 0 0 1 2.869-6.904m35.292 22.716l10.07.122l-7.201-7.026a20.8 20.8 0 0 1-2.869 6.904M27.547 11.483l-7.027-7.2l.123 10.07a20.9 20.9 0 0 1 6.904-2.87m8.906 41.034l7.027 7.199l-.123-10.069a20.9 20.9 0 0 1-6.904 2.87m-21.701-8.555l-3.967 9.251l9.252-3.965a21.1 21.1 0 0 1-5.285-5.286m34.496-23.923l3.965-9.252l-9.25 3.965a21.1 21.1 0 0 1 5.285 5.287M11 32c0-1.278.133-2.524.352-3.741L2 31.999l9.352 3.74A21 21 0 0 1 11 32m51 0l-9.352-3.741C52.867 29.476 53 30.722 53 32s-.133 2.525-.352 3.741zM20.039 14.751l-9.252-3.965l3.965 9.252a21.2 21.2 0 0 1 5.287-5.287m23.922 34.497l9.252 3.965l-3.965-9.251a21.1 21.1 0 0 1-5.287 5.286M35.74 11.352L32 2l-3.74 9.352C29.475 11.133 30.721 11 32 11s2.525.133 3.74.352m-7.48 41.296L32 62l3.74-9.352c-1.215.219-2.461.352-3.74.352s-2.525-.133-3.74-.352\" fill=\"black\"/><circle cx=\"32\" cy=\"32\" r=\"19\" fill=\"black\"/></svg>",
+            "strokeSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m20.52 59.717l7.027-7.2a20.9 20.9 0 0 1-6.904-2.87zM43.48 4.284l-7.025 7.199a20.9 20.9 0 0 1 6.904 2.871zm-31.996 32.17l-7.201 7.025l10.07-.122a20.9 20.9 0 0 1-2.869-6.903m41.032-8.907l7.201-7.027l-10.07.123a20.9 20.9 0 0 1 2.869 6.904m-38.162-6.905l-10.07-.123l7.201 7.027a20.8 20.8 0 0 1 2.869-6.904m35.292 22.716l10.07.122l-7.201-7.026a20.8 20.8 0 0 1-2.869 6.904M27.547 11.483l-7.027-7.2l.123 10.07a20.9 20.9 0 0 1 6.904-2.87m8.906 41.034l7.027 7.199l-.123-10.069a20.9 20.9 0 0 1-6.904 2.87m-21.701-8.555l-3.967 9.251l9.252-3.965a21.1 21.1 0 0 1-5.285-5.286m34.496-23.923l3.965-9.252l-9.25 3.965a21.1 21.1 0 0 1 5.285 5.287M11 32c0-1.278.133-2.524.352-3.741L2 31.999l9.352 3.74A21 21 0 0 1 11 32m51 0l-9.352-3.741C52.867 29.476 53 30.722 53 32s-.133 2.525-.352 3.741zM20.039 14.751l-9.252-3.965l3.965 9.252a21.2 21.2 0 0 1 5.287-5.287m23.922 34.497l9.252 3.965l-3.965-9.251a21.1 21.1 0 0 1-5.287 5.286M35.74 11.352L32 2l-3.74 9.352C29.475 11.133 30.721 11 32 11s2.525.133 3.74.352m-7.48 41.296L32 62l3.74-9.352c-1.215.219-2.461.352-3.74.352s-2.525-.133-3.74-.352\" fill=\"none\" stroke=\"black\" stroke-width=\"1.3\" stroke-linejoin=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"19\" fill=\"none\" stroke=\"black\" stroke-width=\"1.3\"/></svg>",
+            "strokeWidth": 1.3,
+            "scale": 108,
+            "margin": -4,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-cloud",
             "name": "Cloud Nine",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "-1 -1 18 18",
+            "path": "M1 9.5A3.5 3.5 0 0 0 4.5 13H12a3 3 0 0 0 .917-5.857a2.503 2.503 0 0 0-3.198-3.019a3.5 3.5 0 0 0-6.628 2.171A3.5 3.5 0 0 0 1 9.5",
+            "strokeWidth": 0.25,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-crescent-moon",
             "name": "Moon Phase",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "0 0 24 24",
+            "path": "M12 2c-.67 0-1.33.07-1.97.2h-.04c-4.42.91-7.69 4.69-7.96 9.14c-.02.22-.03.43-.03.66s0 .44.02.61c.27 4.5 3.55 8.28 7.97 9.19h.06c.63.13 1.29.2 1.96.2c5.51 0 10-4.49 10-10S17.51 2 12 2m1.34 17.88C14.98 18.04 16 15.19 16 12s-1.02-6.04-2.66-7.88C17.11 4.76 20 8.04 20 12s-2.89 7.24-6.66 7.88",
+            "strokeWidth": 0.32,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-droplet",
             "name": "Raindrop",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "-2 -2 28 28",
+            "path": "M5.636 6.633L12 .269l6.364 6.364a9 9 0 1 1-12.728 0",
+            "strokeWidth": 0.35,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-heart",
             "name": "Heart",
-            "price": 20000
+            "price": 20000,
+            "viewBox": "0 0 20 20",
+            "path": "M9.388 4.29a4.3 4.3 0 0 0-6.127-.016c-1.688 1.705-1.68 4.476.016 6.189l6.277 6.34c.26.263.682.263.942 0l6.245-6.304a4.41 4.41 0 0 0-.017-6.187a4.305 4.305 0 0 0-6.135-.015l-.596.603z",
+            "strokeWidth": 0.32,
+            "scale": 120,
+            "margin": -10,
+            "paddingBottom": "3%",
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         },
         {
             "id": "shape-balloon",
@@ -192,7 +311,14 @@
             "price": 20000,
             "isSeasonal": true,
             "season": "August 2026",
-            "seasonName": "Summer Carnival"
+            "seasonName": "Summer Carnival",
+            "viewBox": "0 -7 64 64",
+            "path": "M52 22.547C52 11.199 43.156 2 32.248 2c-10.91 0-19.752 9.199-19.752 20.547c0 10.767 7.965 23.034 18.101 24.259c-.711.179-.649 1.237.204 1.237h-.742a.96.96 0 0 0 0 1.912h1.466c-.102 1.614-.547 3.322-1.835 4.389c-2.139 1.768-4.891.717-7.379.643c-3.014-.092-5.559 1.193-7.74 3.191c-.758.693-1.602 1.709-2.291 2.477c-.785.875.252 1.924 1.059.965c1.547-1.844 2.574-3.129 4.635-4.295c2.582-1.461 4.963-.732 7.762-.58c3.207.172 6.104-1.355 7.016-4.65c.146-.529.226-1.374.259-2.139h1.39a.96.96 0 0 0 0-1.912h-.703c.854 0 .916-1.059.203-1.237C44.034 45.581 52 33.313 52 22.547",
+            "strokeWidth": 0.8,
+            "scale": 125,
+            "margin": -12.5,
+            "paddingBottom": "1%",
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         }
     ],
     "mending": [
