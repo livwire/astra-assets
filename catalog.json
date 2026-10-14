@@ -1,20 +1,6 @@
 {
     "companions": [
         {
-            "id": "Echo",
-            "name": "Echo",
-            "price": 0,
-            "image": "assets/images/companions/echo.webp",
-            "scale": 1.5
-        },
-        {
-            "id": "Cumulus",
-            "name": "Cumulus",
-            "price": 0,
-            "image": "assets/images/companions/cumulus.webp",
-            "scale": 1.5
-        },
-        {
             "id": "BlackCat",
             "name": "Black Cat",
             "price": 25000,
@@ -32,7 +18,7 @@
             "id": "Owl",
             "name": "Owl",
             "price": 25000,
-            "image": "https://livwire.github.io/astra-assets/companions/owl.webp",
+            "image": "https://livwire.github.io/astra-assets/companions/owl.avif",
             "scale": 1.5,
             "isSupernova": true
         },
@@ -48,26 +34,6 @@
         }
     ],
     "themes": [
-        {
-            "id": "MidnightAurora",
-            "name": "Midnight Aurora",
-            "price": 0,
-            "image": "assets/images/themes/midnight-aurora.avif",
-            "colors": {
-                "dark": "#35d7d7",
-                "light": "#5b45ff"
-            }
-        },
-        {
-            "id": "PeacefulMeadow",
-            "name": "Peaceful Meadow",
-            "price": 0,
-            "image": "assets/images/themes/peaceful-meadow.avif",
-            "colors": {
-                "dark": "#5fdaff",
-                "light": "#0284c7"
-            }
-        },
         {
             "id": "red-carpet",
             "name": "Red Carpet",
@@ -115,6 +81,8 @@
             "name": "Whirring Warehouse",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/whirring-warehouse.avif",
+            "darkFilter": "brightness(0.4) saturate(1.5) contrast(1.1)",
+            "--theme-dark-filter": "brightness(0.4) saturate(1.5) contrast(1.1)",
             "colors": {
                 "dark": "#44e7ea",
                 "light": "#0284c7"
@@ -126,6 +94,8 @@
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/floral-fable.avif",
             "isSupernova": true,
+            "darkFilter": "brightness(0.5) saturate(1.2) contrast(1.1)",
+            "--theme-dark-filter": "brightness(0.5) saturate(1.2) contrast(1.1)",
             "colors": {
                 "dark": "#cca1ef",
                 "light": "#7c3aed"
@@ -147,6 +117,8 @@
             "name": "Sunny Summit",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/sunny-summit.avif",
+            "darkFilter": "brightness(0.45) saturate(1.5) contrast(1.2)",
+            "--theme-dark-filter": "brightness(0.45) saturate(1.5) contrast(1.2)",
             "colors": {
                 "dark": "#FF8C00",
                 "light": "#ea580c"
@@ -170,6 +142,8 @@
             "isSeasonal": true,
             "season": "August 2026",
             "seasonName": "Summer Carnival",
+            "darkFilter": "brightness(0.4) saturate(1.2) contrast(1.1)",
+            "--theme-dark-filter": "brightness(0.4) saturate(1.2) contrast(1.1)",
             "colors": {
                 "dark": "#ff70b3",
                 "light": "#db2777"
