@@ -812,13 +812,6 @@
             "isSupernova": false
         },
         {
-            "id": "Atkinson",
-            "name": "Atkinson (Default)",
-            "price": 0,
-            "fontFamily": "Atkinson",
-            "isSupernova": false
-        },
-        {
             "id": "font-pixelify-sans",
             "name": "Pixelify Sans",
             "price": 15000,
