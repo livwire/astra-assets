@@ -27,11 +27,19 @@
             "name": "Fair Foal",
             "price": 25000,
             "image": "https://livwire.github.io/astra-assets/companions/fair-foal.avif",
-            "scale": 1.7,
+            "scale": 1.75,
             "isSeasonal": true,
             "season": "August 2026",
             "seasonName": "Summer Carnival"
-        }
+        },
+                {
+            "id": "Zegasus",
+            "name": "Zegasus",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/zegasus.avif",
+            "scale": 1.6,
+            "isSupernova": true
+        },
     ],
     "themes": [
         {
