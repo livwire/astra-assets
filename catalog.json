@@ -37,7 +37,7 @@
             "name": "Zegasus",
             "price": 25000,
             "image": "https://livwire.github.io/astra-assets/companions/zegasus.avif",
-            "scale": 1.6,
+            "scale": 1.75,
             "isSupernova": true
         }
     ],
@@ -140,6 +140,18 @@
             "colors": {
                 "dark": "#ae8cef",
                 "light": "#7c3aed"
+            }
+        },
+        {
+            "id": "champagne-kitchen",
+            "name": "Champagne Kitchen",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/champagne-kitchen.avif",
+            "lightFilter": "brightness(0.9) saturate(1.5) contrast(1.3)",
+            "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
+            "colors": {
+                "dark": "#ffbd42",
+                "light": "#3d4ad6"
             }
         },
         {
