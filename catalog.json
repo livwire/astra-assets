@@ -246,6 +246,21 @@
                 "dark": "#e33d1c",
                 "light": "#d73919"
             }
+        },
+        {
+            "id": "harvest-hearth",
+            "name": "Harvest Hearth",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/harvest-hearth.avif",
+            "isSeasonal": true,
+            "season": "November 2026",
+            "seasonName": "Amber Canopy",      
+            "lightFilter": "brightness(1.0) saturate(1.3) contrast(1.2)",
+        "--theme-light-filter": "brightness(1.0) saturate(1.3) contrast(1.2)",
+            "colors": {
+                "dark": "#d59b70",
+                "light": "#89330f"
+            }
         }
     ],
     "bubbles": [
