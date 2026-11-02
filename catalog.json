@@ -1,38 +1,83 @@
 {
     "companions": [
         {
-            "id": "BlackCat",
-            "name": "Black Cat",
+            "id": "nyx",
+            "name": "Nyx",
             "price": 25000,
-            "image": "https://livwire.github.io/astra-assets/companions/cat.webp",
+            "image": "https://livwire.github.io/astra-assets/companions/nyx.avif",
             "scale": 1.5
         },
         {
-            "id": "Axolotl",
-            "name": "Axolotl",
+            "id": "xochi",
+            "name": "Xochi",
             "price": 25000,
-            "image": "https://livwire.github.io/astra-assets/companions/axolotl.webp",
-            "scale": 1.5
-        },
-        {
-            "id": "Owl",
-            "name": "Owl",
-            "price": 25000,
-            "image": "https://livwire.github.io/astra-assets/companions/owl.avif",
+            "image": "https://livwire.github.io/astra-assets/companions/xochi.avif",
             "scale": 1.5,
             "isSupernova": true
         },
         {
-            "id": "fair-foal",
-            "name": "Fair Foal",
+            "id": "kip",
+            "name": "Kip",
             "price": 25000,
-            "image": "https://livwire.github.io/astra-assets/companions/fair-foal.avif",
+            "image": "https://livwire.github.io/astra-assets/companions/kip.avif",
+            "scale": 1.5,
+            "isSupernova": true
+        },
+        {
+            "id": "barnaby",
+            "name": "Barnaby",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/barnaby.avif",
+            "scale": 1.5
+        },
+        {
+            "id": "elle",
+            "name": "elle",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/elle.avif",
+            "scale": 1.5
+        },
+        {
+            "id": "penny",
+            "name": "Penny",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/penny.avif",
             "scale": 1.75,
             "isSeasonal": true,
             "season": "August 2026",
             "seasonName": "Summer Carnival"
         },
-                {
+            {
+            "id": "rusty",
+            "name": "Rusty",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/rusty.avif",
+            "scale": 1.75,
+            "isSeasonal": true,
+            "season": "September 2026",
+            "seasonName": "Amber Canopy"
+        },
+        {
+            "id": "batty",
+            "name": "Batty",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/batty.avif",
+            "scale": 1.75,
+            "isSeasonal": true,
+            "season": "October 2026",
+            "seasonName": "Hollow Hill"
+        },
+        {
+            "id": "acorn",
+            "name": "Acorn",
+            "price": 25000,
+            "image": "https://livwire.github.io/astra-assets/companions/acorn.avif",
+            "scale": 1.75,
+            "isSeasonal": true,
+            "season": "November 2026",
+            "seasonName": "TBD"
+        },
+        {
             "id": "Zegasus",
             "name": "Zegasus",
             "price": 25000,
@@ -147,6 +192,7 @@
             "name": "Champagne Kitchen",
             "price": 30000,
             "image": "https://livwire.github.io/astra-assets/themes/champagne-kitchen.avif",
+            "isSupernova": true,
             "lightFilter": "brightness(0.9) saturate(1.5) contrast(1.3)",
             "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
             "colors": {
@@ -167,6 +213,38 @@
             "colors": {
                 "dark": "#ff70b3",
                 "light": "#db2777"
+            }
+        },
+        {
+            "id": "amber-canopy",
+            "name": "Amber Canopy",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/amber-canopy.avif",
+            "isSeasonal": true,
+            "season": "September 2026",
+            "seasonName": "Amber Canopy",
+            "darkFilter": "brightness(0.45) saturate(1.2) contrast(1.1)",
+           "--theme-dark-filter": "brightness(0.45) saturate(1.2) contrast(1.1)",        
+            "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.3)",
+            "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
+            "colors": {
+                "dark": "#e3931c",
+                "light": "#b80000"
+            }
+        },
+        {
+            "id": "hollow-hill",
+            "name": "Hollow Hill",
+            "price": 30000,
+            "image": "https://livwire.github.io/astra-assets/themes/hollow-hill.avif",
+            "isSeasonal": true,
+            "season": "October 2026",
+            "seasonName": "Hollow Hill",
+            "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.3)",
+            "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
+            "colors": {
+                "dark": "#e33d1c",
+                "light": "#df2foc"
             }
         }
     ],
