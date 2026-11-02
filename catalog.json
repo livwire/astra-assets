@@ -32,7 +32,7 @@
         },
         {
             "id": "ellie",
-            "name": "ellie",
+            "name": "Ellie",
             "price": 25000,
             "image": "https://livwire.github.io/astra-assets/companions/ellie.avif",
             "scale": 1.5
