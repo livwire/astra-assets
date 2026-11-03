@@ -1449,6 +1449,30 @@
             "isSupernova": false
         },
         {
+            "id": "agbalumo",
+            "name": "Agbalumo",
+            "price": 15000,
+            "fontFamily": "Agbalumo",
+            "isSeasonal": true,
+            "season": "September 2026"
+        },
+        {
+            "id": "metal-mania",
+            "name": "Metal Mania",
+            "price": 15000,
+            "fontFamily": "Metal Mania",
+            "isSeasonal": true,
+            "season": "October 2026"
+        },
+        {
+            "id": "caprasimo",
+            "name": "Caprasimo",
+            "price": 15000,
+            "fontFamily": "Caprasimo",
+            "isSeasonal": true,
+            "season": "November 2026"
+        },
+        {
             "id": "font-mountains-of-christmas",
             "name": "Mountains Of Christmas",
             "price": 15000,
