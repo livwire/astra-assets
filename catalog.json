@@ -433,6 +433,20 @@
             "margin": -12.5,
             "paddingBottom": "1%",
             "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+        },
+        {
+            "id": "shape-leaf",
+            "name": "Leaf",
+            "price": 20000,
+            "isSeasonal": true,
+            "season": "September 2026",
+            "seasonName": "Amber Canopy",
+            "viewBox": "0 0 24 24",
+            "path": "M18.28 1.134a2 2 0 0 1 2.639 1.303v.001A27 27 0 0 1 22 10l-.014.545a11 11 0 0 1-10.984 10.454H11a8 8 0 0 1-6.414-3.19A4 4 0 0 0 3 21a1 1 0 0 1-2 0a6 6 0 0 1 2.59-4.937A8 8 0 0 1 9.62 5.116c3.378-.633 5.708-.603 7.79-3.33a2 2 0 0 1 .87-.652z",
+            "strokeWidth": 0.32,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         }
     ],
     "mending": [
