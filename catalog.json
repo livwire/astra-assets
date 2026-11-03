@@ -447,6 +447,35 @@
             "scale": 120,
             "margin": -10,
             "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+        },
+        {
+            "id": "shape-witch-hat",
+            "name": "Witch Hat",
+            "price": 20000,
+            "aliases": ["shape-hat"],
+            "isSeasonal": true,
+            "season": "October 2026",
+            "seasonName": "Hollow Hill",
+            "viewBox": "0 0 48 48",
+            "path": "M24 40c11.046 0 20-1.79 20-4c0-1.439-3.299-2.7-9-3.405L27 12L15 8l3 6l-5 18.595C7.299 33.3 4 34.56 4 36c0 2.21 8.954 4 20 4z",
+            "strokeWidth": 0.65,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+        },
+        {
+            "id": "shape-acorn",
+            "name": "Acorn",
+            "price": 20000,
+            "isSeasonal": true,
+            "season": "November 2026",
+            "seasonName": "Harvest Hearth",
+            "viewBox": "0 0 256 256",
+            "path": "M232 104a56.06 56.06 0 0 0-56-56h-40a24 24 0 0 1 24-24a8 8 0 0 0 0-16a40 40 0 0 0-40 40H80a56.06 56.06 0 0 0-56 56a16 16 0 0 0 8 13.84V128c0 35.53 33.12 62.12 59.74 83.49C103.66 221.07 120 234.18 120 240a8 8 0 0 0 16 0c0-5.82 16.34-18.93 28.26-28.51C190.88 190.12 224 163.53 224 128v-10.16a16 16 0 0 0 8-13.84z",
+            "strokeWidth": 3.5,
+            "scale": 120,
+            "margin": -10,
+            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
         }
     ],
     "mending": [
