@@ -592,861 +592,1256 @@
             "name": "Trochut",
             "price": 15000,
             "fontFamily": "Trochut",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/trochut/Trochut-Bold.ttf"
         },
         {
             "id": "font-cascadia-code",
             "name": "Cascadia Code",
             "price": 15000,
             "fontFamily": "Cascadia Code",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/cascadia-code/CascadiaCode-Bold.ttf"
         },
         {
             "id": "font-inika",
             "name": "Inika",
             "price": 15000,
             "fontFamily": "Inika",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/inika/Inika-Bold.ttf"
         },
         {
             "id": "font-geologica",
             "name": "Geologica",
             "price": 15000,
             "fontFamily": "Geologica",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/geologica/Geologica-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/geologica/Geologica-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/geologica/Geologica-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-savate",
             "name": "Savate",
             "price": 15000,
             "fontFamily": "Savate",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/savate/Savate-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/savate/Savate-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/savate/Savate-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-overlock",
             "name": "Overlock",
             "price": 15000,
             "fontFamily": "Overlock",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/overlock/Overlock-Bold.ttf"
         },
         {
             "id": "font-oleo-script",
             "name": "Oleo Script",
             "price": 15000,
             "fontFamily": "Oleo Script",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/oleo-script/OleoScript-Bold.ttf"
         },
         {
             "id": "font-unbounded",
             "name": "Unbounded",
             "price": 15000,
             "fontFamily": "Unbounded",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/unbounded/Unbounded-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/unbounded/Unbounded-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/unbounded/Unbounded-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-alan-sans",
             "name": "Alan Sans",
             "price": 15000,
             "fontFamily": "Alan Sans",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/alan-sans/AlanSans-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/alan-sans/AlanSans-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/alan-sans/AlanSans-Bold.ttf"
+            }
         },
         {
             "id": "font-funnel-display",
             "name": "Funnel Display",
             "price": 15000,
             "fontFamily": "Funnel Display",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/funnel-display/FunnelDisplay-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/funnel-display/FunnelDisplay-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/funnel-display/FunnelDisplay-Bold.ttf"
+            }
         },
         {
             "id": "font-shantell-sans",
             "name": "Shantell Sans",
             "price": 15000,
             "fontFamily": "Shantell Sans",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/shantell-sans/ShantellSans-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/shantell-sans/ShantellSans-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/shantell-sans/ShantellSans-Bold.ttf"
+            }
         },
         {
             "id": "font-outfit",
             "name": "Outfit",
             "price": 15000,
             "fontFamily": "Outfit",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/outfit/Outfit-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/outfit/Outfit-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/outfit/Outfit-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-tourney",
             "name": "Tourney",
             "price": 15000,
             "fontFamily": "Tourney",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/tourney/Tourney-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/tourney/Tourney-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/tourney/Tourney-Bold.ttf"
+            }
         },
         {
             "id": "font-noto-serif",
             "name": "Noto Serif",
             "price": 15000,
             "fontFamily": "Noto Serif",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/noto-serif/NotoSerif-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/noto-serif/NotoSerif-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/noto-serif/NotoSerif-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-iosevka-charon",
             "name": "Iosevka Charon",
             "price": 15000,
             "fontFamily": "Iosevka Charon",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/iosevka-charon/IosevkaCharon-Bold.ttf"
         },
         {
             "id": "font-advent-pro",
             "name": "Advent Pro",
             "price": 15000,
             "fontFamily": "Advent Pro",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/advent-pro/AdventPro-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/advent-pro/AdventPro-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/advent-pro/AdventPro-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-oxygen",
             "name": "Oxygen",
             "price": 15000,
             "fontFamily": "Oxygen",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/oxygen/Oxygen-Bold.ttf"
         },
         {
             "id": "font-josefin-sans",
             "name": "Josefin Sans",
             "price": 15000,
             "fontFamily": "Josefin Sans",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/josefin-sans/JosefinSans-Bold.ttf"
         },
         {
             "id": "font-alkatra",
             "name": "Alkatra",
             "price": 15000,
             "fontFamily": "Alkatra",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/alkatra/Alkatra-Bold.ttf"
         },
         {
             "id": "font-sour-gummy",
             "name": "Sour Gummy",
             "price": 15000,
             "fontFamily": "Sour Gummy",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/sour-gummy/SourGummy_Expanded-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/sour-gummy/SourGummy_Expanded-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/sour-gummy/SourGummy_Expanded-Bold.ttf"
+            }
         },
         {
             "id": "font-space-mono",
             "name": "Space Mono",
             "price": 15000,
             "fontFamily": "Space Mono",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/space-mono/SpaceMono-Bold.ttf"
         },
         {
             "id": "font-exo-2",
             "name": "Exo 2",
             "price": 15000,
             "fontFamily": "Exo 2",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/exo-2/Exo2-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/exo-2/Exo2-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/exo-2/Exo2-Bold.ttf"
+            }
         },
         {
             "id": "font-kode-mono",
             "name": "Kode Mono",
             "price": 15000,
             "fontFamily": "Kode Mono",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/kode-mono/KodeMono-Bold.ttf"
         },
         {
             "id": "font-bodoni-moda",
             "name": "Bodoni Moda",
             "price": 15000,
             "fontFamily": "Bodoni Moda",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/bodoni-moda/BodoniModa_9pt-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/bodoni-moda/BodoniModa_9pt-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/bodoni-moda/BodoniModa_9pt-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-quicksand",
             "name": "Quicksand",
             "price": 15000,
             "fontFamily": "Quicksand",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/quicksand/Quicksand-Bold.ttf"
         },
         {
             "id": "font-suse-mono",
             "name": "Suse Mono",
             "price": 15000,
             "fontFamily": "Suse Mono",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/suse-mono/SUSEMono-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/suse-mono/SUSEMono-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/suse-mono/SUSEMono-Bold.ttf"
+            }
         },
         {
             "id": "font-roboto-serif",
             "name": "Roboto Serif",
             "price": 15000,
             "fontFamily": "Roboto Serif",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/roboto-serif/RobotoSerif_36pt-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/roboto-serif/RobotoSerif_36pt-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/roboto-serif/RobotoSerif_36pt-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-platypi",
             "name": "Platypi",
             "price": 15000,
             "fontFamily": "Platypi",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/platypi/Platypi-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/platypi/Platypi-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/platypi/Platypi-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-rokkitt",
             "name": "Rokkitt",
             "price": 15000,
             "fontFamily": "Rokkitt",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/rokkitt/Rokkitt-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/rokkitt/Rokkitt-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/rokkitt/Rokkitt-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-grenze-gotisch",
             "name": "Grenze Gotisch",
             "price": 15000,
             "fontFamily": "Grenze Gotisch",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/grenze-gotisch/GrenzeGotisch-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/grenze-gotisch/GrenzeGotisch-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/grenze-gotisch/GrenzeGotisch-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-merienda",
             "name": "Merienda",
             "price": 15000,
             "fontFamily": "Merienda",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/merienda/Merienda-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/merienda/Merienda-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/merienda/Merienda-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-quantico",
             "name": "Quantico",
             "price": 15000,
             "fontFamily": "Quantico",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/quantico/Quantico-Bold.ttf"
         },
         {
             "id": "font-josefin-slab",
             "name": "Josefin Slab",
             "price": 15000,
             "fontFamily": "Josefin Slab",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/josefin-slab/JosefinSlab-Bold.ttf"
         },
         {
             "id": "font-turret-road",
             "name": "Turret Road",
             "price": 15000,
             "fontFamily": "Turret Road",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/turret-road/TurretRoad-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/turret-road/TurretRoad-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/turret-road/TurretRoad-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-tomorrow",
             "name": "Tomorrow",
             "price": 15000,
             "fontFamily": "Tomorrow",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/tomorrow/Tomorrow-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/tomorrow/Tomorrow-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/tomorrow/Tomorrow-Bold.ttf"
+            }
         },
         {
             "id": "font-public-sans",
             "name": "Public Sans",
             "price": 15000,
             "fontFamily": "Public Sans",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/public-sans/PublicSans-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/public-sans/PublicSans-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/public-sans/PublicSans-Bold.ttf"
+            }
         },
         {
             "id": "font-fredoka",
             "name": "Fredoka",
             "price": 15000,
             "fontFamily": "Fredoka",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/fredoka/Fredoka-Bold.ttf"
         },
         {
             "id": "font-oxanium",
             "name": "Oxanium",
             "price": 15000,
             "fontFamily": "Oxanium",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/oxanium/Oxanium-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/oxanium/Oxanium-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/oxanium/Oxanium-Bold.ttf"
+            }
         },
         {
             "id": "font-unkempt",
             "name": "Unkempt",
             "price": 15000,
             "fontFamily": "Unkempt",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/unkempt/Unkempt-Bold.ttf"
         },
         {
             "id": "font-orbitron",
             "name": "Orbitron",
             "price": 15000,
             "fontFamily": "Orbitron",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/orbitron/Orbitron-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/orbitron/Orbitron-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/orbitron/Orbitron-Bold.ttf"
+            }
         },
         {
             "id": "font-texturina",
             "name": "Texturina",
             "price": 15000,
             "fontFamily": "Texturina",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/texturina/Texturina_48pt-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/texturina/Texturina_48pt-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/texturina/Texturina_48pt-Bold.ttf"
+            }
         },
         {
             "id": "font-sansita-swashed",
             "name": "Sansita Swashed",
             "price": 15000,
             "fontFamily": "Sansita Swashed",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/sansita-swashed/SansitaSwashed-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/sansita-swashed/SansitaSwashed-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/sansita-swashed/SansitaSwashed-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-passion-one",
             "name": "Passion One",
             "price": 15000,
             "fontFamily": "Passion One",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/passion-one/PassionOne-Bold.ttf"
         },
         {
             "id": "font-almendra",
             "name": "Almendra",
             "price": 15000,
             "fontFamily": "Almendra",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/almendra/Almendra-Bold.ttf"
         },
         {
             "id": "font-solway",
             "name": "Solway",
             "price": 15000,
             "fontFamily": "Solway",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/solway/Solway-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/solway/Solway-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/solway/Solway-Bold.ttf"
+            }
         },
         {
             "id": "font-zilla-slab",
             "name": "Zilla Slab",
             "price": 15000,
             "fontFamily": "Zilla Slab",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/zilla-slab/ZillaSlab-Bold.ttf"
         },
         {
             "id": "font-comic-neue",
             "name": "Comic Neue",
             "price": 15000,
             "fontFamily": "Comic Neue",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/comic-neue/ComicNeue-Bold.ttf"
         },
         {
             "id": "font-balsamiq-sans",
             "name": "Balsamiq Sans",
             "price": 15000,
             "fontFamily": "Balsamiq Sans",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/balsamiq-sans/BalsamiqSans-Bold.ttf"
         },
         {
             "id": "font-philosopher",
             "name": "Philosopher",
             "price": 15000,
             "fontFamily": "Philosopher",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/philosopher/Philosopher-Bold.ttf"
         },
         {
             "id": "font-life-savers",
             "name": "Life Savers",
             "price": 15000,
             "fontFamily": "Life Savers",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/life-savers/LifeSavers-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/life-savers/LifeSavers-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/life-savers/LifeSavers-Bold.ttf"
+            }
         },
         {
             "id": "font-tektur",
             "name": "Tektur",
             "price": 15000,
             "fontFamily": "Tektur",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/tektur/Tektur_Condensed-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/tektur/Tektur_Condensed-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/tektur/Tektur_Condensed-Bold.ttf"
+            }
         },
         {
             "id": "font-delius-unicase",
             "name": "Delius Unicase",
             "price": 15000,
             "fontFamily": "Delius Unicase",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/delius-unicase/DeliusUnicase-Bold.ttf"
         },
         {
             "id": "font-space-grotesk",
             "name": "Space Grotesk",
             "price": 15000,
             "fontFamily": "Space Grotesk",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/space-grotesk/SpaceGrotesk-Bold.ttf"
         },
         {
             "id": "font-comfortaa",
             "name": "Comfortaa",
             "price": 15000,
             "fontFamily": "Comfortaa",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/comfortaa/Comfortaa-Bold.ttf"
         },
         {
             "id": "font-lobster-two",
             "name": "Lobster Two",
             "price": 15000,
             "fontFamily": "Lobster Two",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/lobster-two/LobsterTwo-Bold.ttf"
         },
         {
             "id": "font-stick-no-bills",
             "name": "Stick No Bills",
             "price": 15000,
             "fontFamily": "Stick No Bills",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/stick-no-bills/StickNoBills-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/stick-no-bills/StickNoBills-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/stick-no-bills/StickNoBills-Bold.ttf"
+            }
         },
         {
             "id": "font-museomoderno",
             "name": "Museomoderno",
             "price": 15000,
             "fontFamily": "Museomoderno",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/museomoderno/MuseoModerno-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/museomoderno/MuseoModerno-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/museomoderno/MuseoModerno-Bold.ttf"
+            }
         },
         {
             "id": "font-geist-mono",
             "name": "Geist Mono",
             "price": 15000,
             "fontFamily": "Geist Mono",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/geist-mono/GeistMono-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/geist-mono/GeistMono-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/geist-mono/GeistMono-Bold.ttf"
+            }
         },
         {
             "id": "font-agdasima",
             "name": "Agdasima",
             "price": 15000,
             "fontFamily": "Agdasima",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/agdasima/Agdasima-Bold.ttf"
         },
         {
             "id": "font-belanosima",
             "name": "Belanosima",
             "price": 15000,
             "fontFamily": "Belanosima",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/belanosima/Belanosima-Bold.ttf"
         },
         {
             "id": "font-aleo",
             "name": "Aleo",
             "price": 15000,
             "fontFamily": "Aleo",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/aleo/Aleo-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/aleo/Aleo-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/aleo/Aleo-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-fuzzy-bubbles",
             "name": "Fuzzy Bubbles",
             "price": 15000,
             "fontFamily": "Fuzzy Bubbles",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/fuzzy-bubbles/FuzzyBubbles-Bold.ttf"
         },
         {
             "id": "font-handjet",
             "name": "Handjet",
             "price": 15000,
             "fontFamily": "Handjet",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/handjet/Handjet-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/handjet/Handjet-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/handjet/Handjet-Bold.ttf"
+            }
         },
         {
             "id": "font-cabin",
             "name": "Cabin",
             "price": 15000,
             "fontFamily": "Cabin",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/cabin/Cabin-Bold.ttf"
         },
         {
             "id": "font-big-shoulders",
             "name": "Big Shoulders",
             "price": 15000,
             "fontFamily": "Big Shoulders",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/big-shoulders/BigShoulders_18pt-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/big-shoulders/BigShoulders_18pt-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/big-shoulders/BigShoulders_18pt-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-parkinsans",
             "name": "Parkinsans",
             "price": 15000,
             "fontFamily": "Parkinsans",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/parkinsans/Parkinsans-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/parkinsans/Parkinsans-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/parkinsans/Parkinsans-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-noto-serif-display ",
             "name": "Noto Serif Display ",
             "price": 15000,
             "fontFamily": "Noto Serif Display ",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-montagu-slab",
             "name": "Montagu Slab",
             "price": 15000,
             "fontFamily": "Montagu Slab",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/montagu-slab/MontaguSlab_36pt-Bold.ttf"
         },
         {
             "id": "font-enriqueta",
             "name": "Enriqueta",
             "price": 15000,
             "fontFamily": "Enriqueta",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/enriqueta/Enriqueta-Bold.ttf"
         },
         {
             "id": "font-dynapuff",
             "name": "Dynapuff",
             "price": 15000,
             "fontFamily": "Dynapuff",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/dynapuff/DynaPuff-Bold.ttf"
         },
         {
             "id": "font-pixelify-sans",
             "name": "Pixelify Sans",
             "price": 15000,
             "fontFamily": "Pixelify Sans",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/pixelify-sans/PixelifySans-Bold.ttf"
         },
         {
             "id": "font-changa",
             "name": "Changa",
             "price": 15000,
             "fontFamily": "Changa",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/changa/Changa-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/changa/Changa-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/changa/Changa-Bold.ttf"
+            }
         },
         {
             "id": "font-gorditas",
             "name": "Gorditas",
             "price": 15000,
             "fontFamily": "Gorditas",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/gorditas/Gorditas-Bold.ttf"
         },
         {
             "id": "font-neuton",
             "name": "Neuton",
             "price": 15000,
             "fontFamily": "Neuton",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/neuton/Neuton-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/neuton/Neuton-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/neuton/Neuton-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-lekton",
             "name": "Lekton",
             "price": 15000,
             "fontFamily": "Lekton",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/lekton/Lekton-Bold.ttf"
         },
         {
             "id": "font-anybody",
             "name": "Anybody",
             "price": 15000,
             "fontFamily": "Anybody",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/anybody/Anybody_Condensed-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/anybody/Anybody_Condensed-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/anybody/Anybody_Condensed-Bold.ttf"
+            }
         },
         {
             "id": "font-geom",
             "name": "Geom",
             "price": 15000,
             "fontFamily": "Geom",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/geom/Geom-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/geom/Geom-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/geom/Geom-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-corben",
             "name": "Corben",
             "price": 15000,
             "fontFamily": "Corben",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/corben/Corben-Bold.ttf"
         },
         {
             "id": "font-afacad-flux",
             "name": "Afacad Flux",
             "price": 15000,
             "fontFamily": "Afacad Flux",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/afacad-flux/AfacadFlux-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/afacad-flux/AfacadFlux-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/afacad-flux/AfacadFlux-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-grandstander",
             "name": "Grandstander",
             "price": 15000,
             "fontFamily": "Grandstander",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/grandstander/Grandstander-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/grandstander/Grandstander-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/grandstander/Grandstander-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-jura",
             "name": "Jura",
             "price": 15000,
             "fontFamily": "Jura",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/jura/Jura-Bold.ttf"
         },
         {
             "id": "font-bona-nova",
             "name": "Bona Nova",
             "price": 15000,
             "fontFamily": "Bona Nova",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/bona-nova/BonaNova-Bold.ttf"
         },
         {
             "id": "font-genos",
             "name": "Genos",
             "price": 15000,
             "fontFamily": "Genos",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/genos/Genos-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/genos/Genos-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/genos/Genos-Bold.ttf"
+            }
         },
         {
             "id": "font-bellota",
             "name": "Bellota",
             "price": 15000,
             "fontFamily": "Bellota",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/bellota/Bellota-Bold.ttf"
         },
         {
             "id": "font-eb-garamond",
             "name": "Eb Garamond",
             "price": 15000,
             "fontFamily": "Eb Garamond",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/eb-garamond/EBGaramond-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/eb-garamond/EBGaramond-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/eb-garamond/EBGaramond-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-biorhyme",
             "name": "Biorhyme",
             "price": 15000,
             "fontFamily": "Biorhyme",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/biorhyme/BioRhyme-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/biorhyme/BioRhyme-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/biorhyme/BioRhyme-Bold.ttf"
+            }
         },
         {
             "id": "font-marvel",
             "name": "Marvel",
             "price": 15000,
             "fontFamily": "Marvel",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/marvel/Marvel-Bold.ttf"
         },
         {
             "id": "font-elms-sans",
             "name": "Elms Sans",
             "price": 15000,
             "fontFamily": "Elms Sans",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/elms-sans/ElmsSans-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/elms-sans/ElmsSans-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/elms-sans/ElmsSans-Bold.ttf"
+            }
         },
         {
             "id": "font-montserrat",
             "name": "Montserrat",
             "price": 15000,
             "fontFamily": "Montserrat",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/montserrat/Montserrat-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/montserrat/Montserrat-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/montserrat/Montserrat-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-podkova",
             "name": "Podkova",
             "price": 15000,
             "fontFamily": "Podkova",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/podkova/Podkova-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/podkova/Podkova-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/podkova/Podkova-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-newsreader",
             "name": "Newsreader",
             "price": 15000,
             "fontFamily": "Newsreader",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/newsreader/Newsreader_36pt-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/newsreader/Newsreader_36pt-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/newsreader/Newsreader_36pt-Bold.ttf"
+            }
         },
         {
             "id": "font-archivo",
             "name": "Archivo",
             "price": 15000,
             "fontFamily": "Archivo",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/archivo/Archivo_Condensed-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/archivo/Archivo_Condensed-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/archivo/Archivo_Condensed-Bold.ttf"
+            }
         },
         {
             "id": "font-montserrat-alternates",
             "name": "Montserrat Alternates",
             "price": 15000,
             "fontFamily": "Montserrat Alternates",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/montserrat-alternates/MontserratAlternates-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/montserrat-alternates/MontserratAlternates-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/montserrat-alternates/MontserratAlternates-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-doto",
             "name": "Doto",
             "price": 15000,
             "fontFamily": "Doto",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/doto/Doto-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/doto/Doto-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/doto/Doto-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-roboto",
             "name": "Roboto",
             "price": 15000,
             "fontFamily": "Roboto",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/roboto/Roboto-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/roboto/Roboto-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/roboto/Roboto-Bold.ttf"
+            }
         },
         {
             "id": "font-old-standard-tt",
             "name": "Old Standard Tt",
             "price": 15000,
             "fontFamily": "Old Standard Tt",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/old-standard-tt/OldStandardTT-Bold.ttf"
         },
         {
             "id": "font-cherry-swash",
             "name": "Cherry Swash",
             "price": 15000,
             "fontFamily": "Cherry Swash",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/cherry-swash/CherrySwash-Bold.ttf"
         },
         {
             "id": "font-goldman",
             "name": "Goldman",
             "price": 15000,
             "fontFamily": "Goldman",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/goldman/Goldman-Bold.ttf"
         },
         {
             "id": "font-blinker",
             "name": "Blinker",
             "price": 15000,
             "fontFamily": "Blinker",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/blinker/Blinker-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/blinker/Blinker-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/blinker/Blinker-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-hepta-slab",
             "name": "Hepta Slab",
             "price": 15000,
             "fontFamily": "Hepta Slab",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/hepta-slab/HeptaSlab-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/hepta-slab/HeptaSlab-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/hepta-slab/HeptaSlab-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-kameron",
             "name": "Kameron",
             "price": 15000,
             "fontFamily": "Kameron",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/kameron/Kameron-Bold.ttf"
         },
         {
             "id": "font-play",
             "name": "Play",
             "price": 15000,
             "fontFamily": "Play",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/play/Play-Bold.ttf"
         },
         {
             "id": "font-grenze",
             "name": "Grenze",
             "price": 15000,
             "fontFamily": "Grenze",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/grenze/Grenze-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/grenze/Grenze-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/grenze/Grenze-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-red-rose",
             "name": "Red Rose",
             "price": 15000,
             "fontFamily": "Red Rose",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/red-rose/RedRose-Bold.ttf"
         },
         {
             "id": "font-livvic",
             "name": "Livvic",
             "price": 15000,
             "fontFamily": "Livvic",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/livvic/Livvic-Bold.ttf"
         },
         {
             "id": "font-open-sans",
             "name": "Open Sans",
             "price": 15000,
             "fontFamily": "Open Sans",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/open-sans/OpenSans-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/open-sans/OpenSans-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/open-sans/OpenSans-Bold.ttf"
+            }
         },
         {
             "id": "font-suse",
             "name": "Suse",
             "price": 15000,
             "fontFamily": "Suse",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/suse/SUSE-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/suse/SUSE-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/suse/SUSE-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-quattrocento",
             "name": "Quattrocento",
             "price": 15000,
             "fontFamily": "Quattrocento",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/quattrocento/Quattrocento-Bold.ttf"
         },
         {
             "id": "font-gluten",
             "name": "Gluten",
             "price": 15000,
             "fontFamily": "Gluten",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/gluten/Gluten-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/gluten/Gluten-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/gluten/Gluten-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-ojuju",
             "name": "Ojuju",
             "price": 15000,
             "fontFamily": "Ojuju",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/ojuju/Ojuju-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/ojuju/Ojuju-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/ojuju/Ojuju-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-barlow",
             "name": "Barlow",
             "price": 15000,
             "fontFamily": "Barlow",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/barlow/Barlow-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/barlow/Barlow-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/barlow/Barlow-Bold.ttf"
+            }
         },
         {
             "id": "font-baskervville",
             "name": "Baskervville",
             "price": 15000,
             "fontFamily": "Baskervville",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/baskervville/Baskervville-Bold.ttf"
         },
         {
             "id": "font-maitree",
             "name": "Maitree",
             "price": 15000,
             "fontFamily": "Maitree",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/maitree/Maitree-Bold.ttf"
         },
         {
             "id": "font-raleway",
             "name": "Raleway",
             "price": 15000,
             "fontFamily": "Raleway",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/raleway/Raleway-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/raleway/Raleway-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/raleway/Raleway-Bold.ttf"
+            }
         },
         {
             "id": "font-kreon",
             "name": "Kreon",
             "price": 15000,
             "fontFamily": "Kreon",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/kreon/Kreon-Bold.ttf"
         },
         {
             "id": "font-antonio",
             "name": "Antonio",
             "price": 15000,
             "fontFamily": "Antonio",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/antonio/Antonio-Bold.ttf"
         },
         {
             "id": "font-arvo",
             "name": "Arvo",
             "price": 15000,
             "fontFamily": "Arvo",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/arvo/Arvo-Bold.ttf"
         },
         {
             "id": "font-besley",
             "name": "Besley",
             "price": 15000,
             "fontFamily": "Besley",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/besley/Besley-Bold.ttf",
+            "weights": {
+                "700": "https://livwire.github.io/astra-assets/fonts/besley/Besley-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/besley/Besley-ExtraBold.ttf"
+            }
         },
         {
             "id": "font-dancing-script",
             "name": "Dancing Script",
             "price": 15000,
             "fontFamily": "Dancing Script",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/dancing-script/DancingScript-Bold.ttf"
         },
         {
             "id": "font-science-gothic",
             "name": "Science Gothic",
             "price": 15000,
             "fontFamily": "Science Gothic",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/science-gothic/ScienceGothic_Condensed-Bold.ttf",
+            "weights": {
+                "800": "https://livwire.github.io/astra-assets/fonts/science-gothic/ScienceGothic_Condensed-ExtraBold.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/science-gothic/ScienceGothic_Condensed-Bold.ttf"
+            }
         },
         {
             "id": "font-dotgothic16",
             "name": "DotGothic16",
             "price": 15000,
             "fontFamily": "DotGothic16",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/dotgothic16/DotGothic16-Regular.ttf",
+            "weights": {
+                "400": "https://livwire.github.io/astra-assets/fonts/dotgothic16/DotGothic16-Regular.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/dotgothic16/DotGothic16-Regular.ttf"
+            }
         },
         {
             "id": "font-press-start-2p",
             "name": "Press Start 2P",
             "price": 15000,
             "fontFamily": "Press Start 2P",
-            "isSupernova": true
+            "isSupernova": true,
+            "url": "https://livwire.github.io/astra-assets/fonts/pressstart2p/PressStart2P-Regular.ttf",
+            "weights": {
+                "400": "https://livwire.github.io/astra-assets/fonts/pressstart2p/PressStart2P-Regular.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/pressstart2p/PressStart2P-Regular.ttf"
+            }
         },
         {
             "id": "font-vt323",
             "name": "VT323",
             "price": 15000,
             "fontFamily": "VT323",
-            "isSupernova": false
+            "isSupernova": false,
+            "url": "https://livwire.github.io/astra-assets/fonts/vt323/VT323-Regular.ttf",
+            "weights": {
+                "400": "https://livwire.github.io/astra-assets/fonts/vt323/VT323-Regular.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/vt323/VT323-Regular.ttf"
+            }
         },
         {
             "id": "agbalumo",
@@ -1454,7 +1849,8 @@
             "price": 15000,
             "fontFamily": "Agbalumo",
             "isSeasonal": true,
-            "season": "September 2026"
+            "season": "September 2026",
+            "url": "https://livwire.github.io/astra-assets/fonts/agbalumo/Agbalumo-Regular.ttf"
         },
         {
             "id": "metal-mania",
@@ -1462,7 +1858,8 @@
             "price": 15000,
             "fontFamily": "Metal Mania",
             "isSeasonal": true,
-            "season": "October 2026"
+            "season": "October 2026",
+            "url": "https://livwire.github.io/astra-assets/fonts/metal-mania/MetalMania-Regular.ttf"
         },
         {
             "id": "caprasimo",
@@ -1470,7 +1867,8 @@
             "price": 15000,
             "fontFamily": "Caprasimo",
             "isSeasonal": true,
-            "season": "November 2026"
+            "season": "November 2026",
+            "url": "https://livwire.github.io/astra-assets/fonts/caprasimo/Caprasimo-Regular.ttf"
         },
         {
             "id": "font-mountains-of-christmas",
@@ -1478,7 +1876,8 @@
             "price": 15000,
             "fontFamily": "Mountains Of Christmas",
             "isSeasonal": true,
-            "season": "December 2026"
+            "season": "December 2026",
+            "url": "https://livwire.github.io/astra-assets/fonts/mountains-of-christmas/MountainsofChristmas-Bold.ttf"
         },
         {
             "id": "font-sancreek",
@@ -1486,7 +1885,12 @@
             "price": 15000,
             "fontFamily": "Sancreek",
             "isSeasonal": true,
-            "season": "August 2026"
+            "season": "August 2026",
+            "url": "https://livwire.github.io/astra-assets/fonts/sancreek/Sancreek-Regular.ttf",
+            "weights": {
+                "400": "https://livwire.github.io/astra-assets/fonts/sancreek/Sancreek-Regular.ttf",
+                "700": "https://livwire.github.io/astra-assets/fonts/sancreek/Sancreek-Regular.ttf"
+            }
         }
     ]
 }
