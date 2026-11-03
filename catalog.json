@@ -55,7 +55,7 @@
             "season": "August 2026",
             "seasonName": "Summer Carnival"
         },
-            {
+        {
             "id": "rusty",
             "name": "Rusty",
             "price": 25000,
@@ -234,7 +234,7 @@
             "season": "September 2026",
             "seasonName": "Amber Canopy",
             "darkFilter": "brightness(0.4) saturate(1.2) contrast(1.1)",
-           "--theme-dark-filter": "brightness(0.45) saturate(1.2) contrast(1.1)",        
+            "--theme-dark-filter": "brightness(0.45) saturate(1.2) contrast(1.1)",
             "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.3)",
             "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
             "colors": {
@@ -264,7 +264,7 @@
             "image": "https://livwire.github.io/astra-assets/themes/harvest-hearth.avif",
             "isSeasonal": true,
             "season": "November 2026",
-            "seasonName": "Harvest Hearth",      
+            "seasonName": "Harvest Hearth",
             "lightFilter": "brightness(1.0) saturate(1.3) contrast(1.2)",
             "--theme-light-filter": "brightness(1.0) saturate(1.3) contrast(1.2)",
             "colors": {
@@ -280,8 +280,8 @@
             "isSeasonal": true,
             "season": "December 2026",
             "seasonName": "Candy Cane Lane",
-            "darkFilter": "brightness(0.4) saturate(1.4) contrast(1.1)",
-           "--theme-dark-filter": "brightness(0.5) saturate(1.4) contrast(1.1)",    
+            "darkFilter": "brightness(0.35) saturate(1.4) contrast(1.1)",
+            "--theme-dark-filter": "brightness(0.35) saturate(1.4) contrast(1.1)",
             "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.1)",
             "--theme-light-filter": "brightness(1.0) saturate(1.5) contrast(1.1)",
             "colors": {
@@ -300,19 +300,31 @@
             "strokeWidth": 0.32,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 78, "shop": 86, "harmony": 42, "preview": 62 }
+            "sizing": {
+                "grid": 78,
+                "shop": 86,
+                "harmony": 42,
+                "preview": 62
+            }
         },
         {
             "id": "shape-sparkle",
             "name": "Sparkle",
             "price": 20000,
-            "aliases": ["shape-star"],
+            "aliases": [
+                "shape-star"
+            ],
             "viewBox": "0 0 24 24",
             "path": "m21.45 11.11L16.85 7.83Q16.40 7.60 16.17 7.14L12.89 2.56c-.34-.68-1.45-.68-1.79 0L7.83 7.14Q7.60 7.60 7.14 7.83L2.56 11.11c-.34.17-.55.52-.55.89s.21.72.55.89L7.14 16.17Q7.60 16.40 7.83 16.85L11.11 21.44c.17.34.52.55.89.55s.72-.21.89-.55L16.17 16.85Q16.40 16.40 16.85 16.17L21.45 12.89c.34-.17.55-.52.55-.89s-.21-.72-.55-.89Z",
             "strokeWidth": 0.32,
             "scale": 125,
             "margin": -12.5,
-            "sizing": { "grid": 68, "shop": 76, "harmony": 36, "preview": 54 }
+            "sizing": {
+                "grid": 68,
+                "shop": 76,
+                "harmony": 36,
+                "preview": 54
+            }
         },
         {
             "id": "shape-cosmic-star",
@@ -324,7 +336,12 @@
             "strokeWidth": 0.32,
             "scale": 125,
             "margin": -12.5,
-            "sizing": { "grid": 78, "shop": 86, "harmony": 42, "preview": 62 }
+            "sizing": {
+                "grid": 78,
+                "shop": 86,
+                "harmony": 42,
+                "preview": 62
+            }
         },
         {
             "id": "shape-hexagon",
@@ -335,7 +352,12 @@
             "strokeWidth": 0.32,
             "scale": 125,
             "margin": -12.5,
-            "sizing": { "grid": 74, "shop": 82, "harmony": 40, "preview": 58 }
+            "sizing": {
+                "grid": 74,
+                "shop": 82,
+                "harmony": 40,
+                "preview": 58
+            }
         },
         {
             "id": "shape-planetary",
@@ -348,7 +370,12 @@
             "strokeWidth": 0.65,
             "scale": 125,
             "margin": -12.5,
-            "sizing": { "grid": 76, "shop": 84, "harmony": 40, "preview": 60 }
+            "sizing": {
+                "grid": 76,
+                "shop": 84,
+                "harmony": 40,
+                "preview": 60
+            }
         },
         {
             "id": "shape-flower-power",
@@ -359,20 +386,32 @@
             "strokeWidth": 0.25,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-solar-flare",
             "name": "Sun",
             "price": 20000,
-            "aliases": ["shape-sun"],
+            "aliases": [
+                "shape-sun"
+            ],
             "viewBox": "0 0 64 64",
             "svg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m20.52 59.717l7.027-7.2a20.9 20.9 0 0 1-6.904-2.87zM43.48 4.284l-7.025 7.199a20.9 20.9 0 0 1 6.904 2.871zm-31.996 32.17l-7.201 7.025l10.07-.122a20.9 20.9 0 0 1-2.869-6.903m41.032-8.907l7.201-7.027l-10.07.123a20.9 20.9 0 0 1 2.869 6.904m-38.162-6.905l-10.07-.123l7.201 7.027a20.8 20.8 0 0 1 2.869-6.904m35.292 22.716l10.07.122l-7.201-7.026a20.8 20.8 0 0 1-2.869 6.904M27.547 11.483l-7.027-7.2l.123 10.07a20.9 20.9 0 0 1 6.904-2.87m8.906 41.034l7.027 7.199l-.123-10.069a20.9 20.9 0 0 1-6.904 2.87m-21.701-8.555l-3.967 9.251l9.252-3.965a21.1 21.1 0 0 1-5.285-5.286m34.496-23.923l3.965-9.252l-9.25 3.965a21.1 21.1 0 0 1 5.285 5.287M11 32c0-1.278.133-2.524.352-3.741L2 31.999l9.352 3.74A21 21 0 0 1 11 32m51 0l-9.352-3.741C52.867 29.476 53 30.722 53 32s-.133 2.525-.352 3.741zM20.039 14.751l-9.252-3.965l3.965 9.252a21.2 21.2 0 0 1 5.287-5.287m23.922 34.497l9.252 3.965l-3.965-9.251a21.1 21.1 0 0 1-5.287 5.286M35.74 11.352L32 2l-3.74 9.352C29.475 11.133 30.721 11 32 11s2.525.133 3.74.352m-7.48 41.296L32 62l3.74-9.352c-1.215.219-2.461.352-3.74.352s-2.525-.133-3.74-.352\" fill=\"black\"/><circle cx=\"32\" cy=\"32\" r=\"19\" fill=\"black\"/></svg>",
             "strokeSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m20.52 59.717l7.027-7.2a20.9 20.9 0 0 1-6.904-2.87zM43.48 4.284l-7.025 7.199a20.9 20.9 0 0 1 6.904 2.871zm-31.996 32.17l-7.201 7.025l10.07-.122a20.9 20.9 0 0 1-2.869-6.903m41.032-8.907l7.201-7.027l-10.07.123a20.9 20.9 0 0 1 2.869 6.904m-38.162-6.905l-10.07-.123l7.201 7.027a20.8 20.8 0 0 1 2.869-6.904m35.292 22.716l10.07.122l-7.201-7.026a20.8 20.8 0 0 1-2.869 6.904M27.547 11.483l-7.027-7.2l.123 10.07a20.9 20.9 0 0 1 6.904-2.87m8.906 41.034l7.027 7.199l-.123-10.069a20.9 20.9 0 0 1-6.904 2.87m-21.701-8.555l-3.967 9.251l9.252-3.965a21.1 21.1 0 0 1-5.285-5.286m34.496-23.923l3.965-9.252l-9.25 3.965a21.1 21.1 0 0 1 5.285 5.287M11 32c0-1.278.133-2.524.352-3.741L2 31.999l9.352 3.74A21 21 0 0 1 11 32m51 0l-9.352-3.741C52.867 29.476 53 30.722 53 32s-.133 2.525-.352 3.741zM20.039 14.751l-9.252-3.965l3.965 9.252a21.2 21.2 0 0 1 5.287-5.287m23.922 34.497l9.252 3.965l-3.965-9.251a21.1 21.1 0 0 1-5.287 5.286M35.74 11.352L32 2l-3.74 9.352C29.475 11.133 30.721 11 32 11s2.525.133 3.74.352m-7.48 41.296L32 62l3.74-9.352c-1.215.219-2.461.352-3.74.352s-2.525-.133-3.74-.352\" fill=\"none\" stroke=\"black\" stroke-width=\"1.3\" stroke-linejoin=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"19\" fill=\"none\" stroke=\"black\" stroke-width=\"1.3\"/></svg>",
             "strokeWidth": 1.3,
             "scale": 108,
             "margin": -4,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-cloud",
@@ -383,7 +422,12 @@
             "strokeWidth": 0.25,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-crescent-moon",
@@ -394,7 +438,12 @@
             "strokeWidth": 0.32,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-droplet",
@@ -405,7 +454,12 @@
             "strokeWidth": 0.35,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-heart",
@@ -417,7 +471,12 @@
             "scale": 120,
             "margin": -10,
             "paddingBottom": "0.08em",
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-balloon",
@@ -432,7 +491,12 @@
             "scale": 125,
             "margin": -12.5,
             "paddingBottom": "0.03em",
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-leaf",
@@ -446,13 +510,20 @@
             "strokeWidth": 0.32,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-witch-hat",
             "name": "Witch Hat",
             "price": 20000,
-            "aliases": ["shape-hat"],
+            "aliases": [
+                "shape-hat"
+            ],
             "isSeasonal": true,
             "season": "October 2026",
             "seasonName": "Hollow Hill",
@@ -462,7 +533,12 @@
             "scale": 125,
             "margin": -12.5,
             "paddingTop": "0.55em",
-            "sizing": { "grid": 74, "shop": 84, "harmony": 40, "preview": 60 }
+            "sizing": {
+                "grid": 74,
+                "shop": 84,
+                "harmony": 40,
+                "preview": 60
+            }
         },
         {
             "id": "shape-acorn",
@@ -476,23 +552,35 @@
             "strokeWidth": 3.5,
             "scale": 120,
             "margin": -10,
-            "sizing": { "grid": 71, "shop": 79, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 79,
+                "harmony": 38,
+                "preview": 56
+            }
         },
         {
             "id": "shape-snowflake",
             "name": "Snowflake",
             "price": 20000,
-            "aliases": ["shape-snow", "shape-crystal"],
+            "aliases": [
+                "shape-snow",
+                "shape-crystal"
+            ],
             "isSeasonal": true,
             "season": "December 2026",
             "seasonName": "Candy Cane Lane",
             "viewBox": "1.8 1.8 20.4 20.4",
-            "svg": "<svg viewBox=\"1.8 1.8 20.4 20.4\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.610 6.925Q12.000 6.700 12.390 6.925L16.200 9.125Q16.590 9.350 16.590 9.800L16.590 14.200Q16.590 14.650 16.200 14.875L12.390 17.075Q12.000 17.300 11.610 17.075L7.800 14.875Q7.410 14.650 7.410 14.200L7.410 9.800Q7.410 9.350 7.800 9.125Z\" fill=\"black\" /><path stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M14.244 3.006c-.443.404-1.623 1.995-2.253 1.994c-.63 0-1.805-1.595-2.247-2m4.5 17.994c-.443-.404-1.623-1.995-2.253-1.994c-.63 0-1.805 1.596-2.247 2M20.908 9.452c-.571-.182-2.539-.408-2.853-.954c-.315-.547.479-2.361.608-2.946M5.33 18.446c.128-.586.916-2.403.6-2.948c-.316-.546-2.284-.766-2.855-.946m.001-5.1c.57-.182 2.539-.408 2.853-.954s-.479-2.361-.608-2.946m13.332 12.894c-.128-.586-.916-2.403-.6-2.948c.316-.546 2.284-.766 2.855-.946M12.000 6.700L12.000 5.000M16.590 9.350L18.062 8.500M16.590 14.650L18.062 15.500M12.000 17.300L12.000 19.000M7.410 14.650L5.938 15.500M7.410 9.350L5.938 8.500\" fill=\"none\" /></svg>",
-            "strokeSvg": "<svg viewBox=\"1.8 1.8 20.4 20.4\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke=\"black\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"0.8\" d=\"M14.244 3.006c-.443.404-1.623 1.995-2.253 1.994c-.63 0-1.805-1.595-2.247-2m4.5 17.994c-.443-.404-1.623-1.995-2.253-1.994c-.63 0-1.805 1.596-2.247 2M20.908 9.452c-.571-.182-2.539-.408-2.853-.954c-.315-.547.479-2.361.608-2.946M5.33 18.446c.128-.586.916-2.403.6-2.948c-.316-.546-2.284-.766-2.855-.946m.001-5.1c.57-.182 2.539-.408 2.853-.954s-.479-2.361-.608-2.946m13.332 12.894c-.128-.586-.916-2.403-.6-2.948c.316-.546 2.284-.766 2.855-.946M12.000 6.700L12.000 5.000M16.590 9.350L18.062 8.500M16.590 14.650L18.062 15.500M12.000 17.300L12.000 19.000M7.410 14.650L5.938 15.500M7.410 9.350L5.938 8.500\" fill=\"none\" /></svg>",
-            "strokeWidth": 0.8,
+            "strokeWidth": 0.55,
             "scale": 110,
             "margin": -5,
-            "sizing": { "grid": 71, "shop": 80, "harmony": 38, "preview": 56 }
+            "sizing": {
+                "grid": 71,
+                "shop": 80,
+                "harmony": 38,
+                "preview": 56
+            },
+            "path": "M 11.32 7.19 L 11.32 6.85 L 9.48 5.56 L 9.32 4.62 L 10.26 4.46 L 11.32 5.20 L 11.32 4.90 L 9.61 3.47 L 9.61 2.51 L 10.57 2.51 L 12.00 3.95 L 13.43 2.51 L 14.39 2.51 L 14.39 3.47 L 12.68 4.90 L 12.68 5.20 L 13.74 4.46 L 14.68 4.62 L 14.52 5.56 L 12.68 6.85 L 12.68 7.19 L 15.83 9.01 L 16.12 8.84 L 16.32 6.60 L 17.05 5.99 L 17.66 6.72 L 17.55 8.02 L 17.81 7.87 L 18.20 5.67 L 19.02 5.19 L 19.50 6.02 L 18.98 7.97 L 20.93 8.50 L 21.41 9.32 L 20.58 9.80 L 18.49 9.03 L 18.22 9.19 L 19.40 9.74 L 19.73 10.63 L 18.83 10.96 L 16.80 10.01 L 16.50 10.18 L 16.50 13.82 L 16.80 13.99 L 18.83 13.04 L 19.73 13.37 L 19.40 14.26 L 18.22 14.81 L 18.49 14.97 L 20.58 14.20 L 21.41 14.68 L 20.93 15.50 L 18.98 16.03 L 19.50 17.98 L 19.02 18.81 L 18.20 18.33 L 17.81 16.13 L 17.55 15.98 L 17.66 17.28 L 17.05 18.01 L 16.32 17.40 L 16.12 15.16 L 15.83 14.99 L 12.68 16.81 L 12.68 17.15 L 14.52 18.44 L 14.68 19.38 L 13.74 19.54 L 12.68 18.80 L 12.68 19.10 L 14.39 20.53 L 14.39 21.49 L 13.43 21.49 L 12.00 20.05 L 10.57 21.49 L 9.61 21.49 L 9.61 20.53 L 11.32 19.10 L 11.32 18.80 L 10.26 19.54 L 9.32 19.38 L 9.48 18.44 L 11.32 17.15 L 11.32 16.81 L 8.17 14.99 L 7.88 15.16 L 7.68 17.40 L 6.95 18.01 L 6.34 17.28 L 6.45 15.98 L 6.19 16.13 L 5.80 18.33 L 4.98 18.81 L 4.50 17.98 L 5.02 16.03 L 3.07 15.50 L 2.59 14.68 L 3.42 14.20 L 5.51 14.97 L 5.78 14.81 L 4.60 14.26 L 4.27 13.37 L 5.17 13.04 L 7.20 13.99 L 7.50 13.82 L 7.50 10.18 L 7.20 10.01 L 5.17 10.96 L 4.27 10.63 L 4.60 9.74 L 5.78 9.19 L 5.51 9.03 L 3.42 9.80 L 2.59 9.32 L 3.07 8.50 L 5.02 7.97 L 4.50 6.02 L 4.98 5.19 L 5.80 5.67 L 6.19 7.87 L 6.45 8.02 L 6.34 6.72 L 6.95 5.99 L 7.68 6.60 L 7.88 8.84 L 8.17 9.01 Z"
         }
     ],
     "mending": [
