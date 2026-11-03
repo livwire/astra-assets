@@ -52,8 +52,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/penny.avif",
             "scale": 1.75,
             "isSeasonal": true,
-            "season": "August 2026",
-            "seasonName": "Summer Carnival"
+            "season": "August 2026"
         },
         {
             "id": "rusty",
@@ -62,8 +61,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/rusty.avif",
             "scale": 1.75,
             "isSeasonal": true,
-            "season": "September 2026",
-            "seasonName": "Amber Canopy"
+            "season": "September 2026"
         },
         {
             "id": "batty",
@@ -72,8 +70,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/batty.avif",
             "scale": 1.75,
             "isSeasonal": true,
-            "season": "October 2026",
-            "seasonName": "Hollow Hill"
+            "season": "October 2026"
         },
         {
             "id": "acorn",
@@ -82,8 +79,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/acorn.avif",
             "scale": 1.75,
             "isSeasonal": true,
-            "season": "November 2026",
-            "seasonName": "Harvest Hearth"
+            "season": "November 2026"
         },
         {
             "id": "noelle",
@@ -92,8 +88,7 @@
             "image": "https://livwire.github.io/astra-assets/companions/noelle.avif",
             "scale": 1.75,
             "isSeasonal": true,
-            "season": "December 2026",
-            "seasonName": "Candy Cane Lane"
+            "season": "December 2026"
         }
     ],
     "themes": [
@@ -217,7 +212,6 @@
             "image": "https://livwire.github.io/astra-assets/themes/summer-carnival.avif",
             "isSeasonal": true,
             "season": "August 2026",
-            "seasonName": "Summer Carnival",
             "darkFilter": "brightness(0.4) saturate(1.2) contrast(1.1)",
             "--theme-dark-filter": "brightness(0.4) saturate(1.2) contrast(1.1)",
             "colors": {
@@ -232,7 +226,6 @@
             "image": "https://livwire.github.io/astra-assets/themes/amber-canopy.avif",
             "isSeasonal": true,
             "season": "September 2026",
-            "seasonName": "Amber Canopy",
             "darkFilter": "brightness(0.4) saturate(1.2) contrast(1.1)",
             "--theme-dark-filter": "brightness(0.45) saturate(1.2) contrast(1.1)",
             "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.3)",
@@ -249,7 +242,6 @@
             "image": "https://livwire.github.io/astra-assets/themes/hollow-hill.avif",
             "isSeasonal": true,
             "season": "October 2026",
-            "seasonName": "Hollow Hill",
             "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.3)",
             "--theme-light-filter": "brightness(0.9) saturate(1.5) contrast(1.3)",
             "colors": {
@@ -264,7 +256,6 @@
             "image": "https://livwire.github.io/astra-assets/themes/harvest-hearth.avif",
             "isSeasonal": true,
             "season": "November 2026",
-            "seasonName": "Harvest Hearth",
             "lightFilter": "brightness(1.0) saturate(1.3) contrast(1.2)",
             "--theme-light-filter": "brightness(1.0) saturate(1.3) contrast(1.2)",
             "colors": {
@@ -279,7 +270,6 @@
             "image": "https://livwire.github.io/astra-assets/themes/candy-cane-lane.avif",
             "isSeasonal": true,
             "season": "December 2026",
-            "seasonName": "Candy Cane Lane",
             "darkFilter": "brightness(0.35) saturate(1.4) contrast(1.1)",
             "--theme-dark-filter": "brightness(0.35) saturate(1.4) contrast(1.1)",
             "lightFilter": "brightness(1.0) saturate(1.5) contrast(1.1)",
@@ -484,7 +474,6 @@
             "price": 20000,
             "isSeasonal": true,
             "season": "August 2026",
-            "seasonName": "Summer Carnival",
             "viewBox": "0 -7 64 64",
             "path": "M52 22.547C52 11.199 43.156 2 32.248 2c-10.91 0-19.752 9.199-19.752 20.547c0 10.767 7.965 23.034 18.101 24.259c-.711.179-.649 1.237.204 1.237h-.742a.96.96 0 0 0 0 1.912h1.466c-.102 1.614-.547 3.322-1.835 4.389c-2.139 1.768-4.891.717-7.379.643c-3.014-.092-5.559 1.193-7.74 3.191c-.758.693-1.602 1.709-2.291 2.477c-.785.875.252 1.924 1.059.965c1.547-1.844 2.574-3.129 4.635-4.295c2.582-1.461 4.963-.732 7.762-.58c3.207.172 6.104-1.355 7.016-4.65c.146-.529.226-1.374.259-2.139h1.39a.96.96 0 0 0 0-1.912h-.703c.854 0 .916-1.059.203-1.237C44.034 45.581 52 33.313 52 22.547",
             "strokeWidth": 0.8,
@@ -504,7 +493,6 @@
             "price": 20000,
             "isSeasonal": true,
             "season": "September 2026",
-            "seasonName": "Amber Canopy",
             "viewBox": "0 0 24 24",
             "path": "M18.28 1.134a2 2 0 0 1 2.639 1.303v.001A27 27 0 0 1 22 10l-.014.545a11 11 0 0 1-10.984 10.454H11a8 8 0 0 1-6.414-3.19A4 4 0 0 0 3 21a1 1 0 0 1-2 0a6 6 0 0 1 2.59-4.937A8 8 0 0 1 9.62 5.116c3.378-.633 5.708-.603 7.79-3.33a2 2 0 0 1 .87-.652z",
             "strokeWidth": 0.32,
@@ -526,7 +514,6 @@
             ],
             "isSeasonal": true,
             "season": "October 2026",
-            "seasonName": "Hollow Hill",
             "viewBox": "2 5 44 39",
             "path": "M24 40c11.046 0 20-1.79 20-4c0-1.439-3.299-2.7-9-3.405L27 12L15 8l3 6l-5 18.595C7.299 33.3 4 34.56 4 36c0 2.21 8.954 4 20 4z",
             "strokeWidth": 0.75,
@@ -546,7 +533,6 @@
             "price": 20000,
             "isSeasonal": true,
             "season": "November 2026",
-            "seasonName": "Harvest Hearth",
             "viewBox": "0 0 256 256",
             "path": "M232 104a56.06 56.06 0 0 0-56-56h-40a24 24 0 0 1 24-24a8 8 0 0 0 0-16a40 40 0 0 0-40 40H80a56.06 56.06 0 0 0-56 56a16 16 0 0 0 8 13.84V128c0 35.53 33.12 62.12 59.74 83.49C103.66 221.07 120 234.18 120 240a8 8 0 0 0 16 0c0-5.82 16.34-18.93 28.26-28.51C190.88 190.12 224 163.53 224 128v-10.16a16 16 0 0 0 8-13.84z",
             "strokeWidth": 3.5,
@@ -569,7 +555,6 @@
             ],
             "isSeasonal": true,
             "season": "December 2026",
-            "seasonName": "Candy Cane Lane",
             "viewBox": "1.8 1.8 20.4 20.4",
             "strokeWidth": 0.55,
             "scale": 110,
@@ -902,13 +887,6 @@
             "price": 15000,
             "fontFamily": "Passion One",
             "isSupernova": false
-        },
-        {
-            "id": "font-mountains-of-christmas",
-            "name": "Mountains Of Christmas",
-            "price": 15000,
-            "fontFamily": "Mountains Of Christmas",
-            "isSupernova": true
         },
         {
             "id": "font-almendra",
@@ -1471,13 +1449,20 @@
             "isSupernova": false
         },
         {
+            "id": "font-mountains-of-christmas",
+            "name": "Mountains Of Christmas",
+            "price": 15000,
+            "fontFamily": "Mountains Of Christmas",
+            "isSeasonal": true,
+            "season": "December 2026"
+        },
+        {
             "id": "font-sancreek",
             "name": "Sancreek",
             "price": 15000,
             "fontFamily": "Sancreek",
             "isSeasonal": true,
-            "season": "August 2026",
-            "seasonName": "Summer Carnival"
+            "season": "August 2026"
         }
     ]
 }
