@@ -1,4 +1,10 @@
-Copyright 2020-2024 The Atkinson Hyperlegible Next Project Authors (https://github.com/googlefonts/atkinson-hyperlegible-next)
+Astra Echo - Font Attributions & Licenses
+=========================================
+The fonts hosted in this repository are open-source and licensed under the 
+SIL Open Font License, Version 1.1 (OFL-1.1).
+Fonts included in this collection:
+
+Agbalumo, Advent Pro, Afacad Flux, Agdasima, Alan Sans, Aleo, Alkatra, Almendra, Antonio, Anybody, Archivo, Arvo, Atkinson Hyperlegible Next, Balsamiq Sans, Barlow, Baskervville, Belanosima, Bellota, Besley, Big Shoulders, BioRhyme, Blinker, Bodoni Moda, Bona Nova, Cabin, Caprasimo, Cascadia Code, Changa, Cherry Swash, Comfortaa, Comic Neue, Corben, Dancing Script, Delius Unicase, DotGothic16, Doto, DynaPuff, EB Garamond, Elms Sans, Enriqueta, Exo 2, Fredoka, Funnel Display, Fuzzy Bubbles, Geist Mono, Genos, Geologica, Geom, Gluten, Goldman, Gorditas, Grandstander, Grenze, Grenze Gotisch, Handjet, Hepta Slab, Inika, Iosevka Charon, Josefin Sans, Josefin Slab, Jura, Kameron, Kode Mono, Kreon, Lekton, Life Savers, Livvic, Lobster Two, Maitree, Marvel, Merienda, Metal Mania, Montagu Slab, Montserrat, Montserrat Alternates, Mountains of Christmas, MuseoModerno, Neuton, Newsreader, Noto Serif, Noto Serif Display, Ojuju, Old Standard TT, Oleo Script, Open Sans, Orbitron, Outfit, Overlock, Oxanium, Oxygen, Parkinsans, Passion One, Philosopher, Pixelify Sans, Platypi, Play, Podkova, Press Start 2P, Public Sans, Quantico, Quattrocento, Quicksand, Raleway, Red Rose, Roboto, Roboto Serif, Rokkitt, Sancreek, Sansita Swashed, Savate, Science Gothic, Shantell Sans, Solway, Sour Gummy, Space Grotesk, Space Mono, Stick No Bills, SUSE, SUSE Mono, Tektur, Texturina, Tomorrow, Tourney, Trochut, Turret Road, Unbounded, Unkempt, VT323, Zilla Slab.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
