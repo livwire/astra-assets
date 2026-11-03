@@ -456,11 +456,12 @@
             "isSeasonal": true,
             "season": "October 2026",
             "seasonName": "Hollow Hill",
-            "viewBox": "2 6 44 36",
+            "viewBox": "2 5 44 39",
             "path": "M24 40c11.046 0 20-1.79 20-4c0-1.439-3.299-2.7-9-3.405L27 12L15 8l3 6l-5 18.595C7.299 33.3 4 34.56 4 36c0 2.21 8.954 4 20 4z",
             "strokeWidth": 0.75,
             "scale": 125,
             "margin": -12.5,
+            "paddingTop": "7%",
             "sizing": { "grid": 74, "shop": 84, "harmony": 40, "preview": 60 }
         },
         {
