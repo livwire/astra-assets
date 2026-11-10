@@ -1260,15 +1260,15 @@
             }
         },
         {
-            "id": "font-noto-serif-display ",
-            "name": "Noto Serif Display ",
+            "id": "font-noto-serif-display",
+            "name": "Noto Serif Display",
             "price": 15000,
-            "fontFamily": "Noto Serif Display ",
+            "fontFamily": "Noto Serif Display",
             "isSupernova": true,
-            "url": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-Bold.ttf",
+            "url": "https://livwire.github.io/astra-assets/fonts/noto-serif-display/NotoSerifDisplay-Bold.ttf",
             "weights": {
-                "700": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-Bold.ttf",
-                "800": "https://livwire.github.io/astra-assets/fonts/noto-serif-display /NotoSerifDisplay-ExtraBold.ttf"
+                "700": "https://livwire.github.io/astra-assets/fonts/noto-serif-display/NotoSerifDisplay-Bold.ttf",
+                "800": "https://livwire.github.io/astra-assets/fonts/noto-serif-display/NotoSerifDisplay-ExtraBold.ttf"
             }
         },
         {
